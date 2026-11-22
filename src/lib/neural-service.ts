@@ -8,7 +8,7 @@
  * on failure and never throw to the caller.
  * ------------------------------------------------------------------------- */
 
-import { spawn } from "child_process"
+import { spawn, spawnSync } from "child_process"
 import { join } from "path"
 import { openSync } from "fs"
 
@@ -76,12 +76,47 @@ export async function probeNeuralService(): Promise<NeuralHealthInfo | null> {
 
 /* --------------------------- lazy auto-start ------------------------------ */
 
+/**
+ * Resolve a Python interpreter that can actually run the neural service.
+ *
+ * Machines differ: some have the scientific stack in the default `python3`,
+ * others in a versioned binary or a virtualenv. Resolution order:
+ *   1. NEURAL_PYTHON environment variable (explicit override)
+ *   2. first candidate from a probe that can import torch + fastapi + uvicorn
+ *   3. fallback: plain "python3" (spawn may fail -> honest MODEL_NOT_READY)
+ */
+function resolvePythonInterpreter(): string {
+  const candidates = [
+    process.env.NEURAL_PYTHON,
+    "python3",
+    "python3.12",
+    "python3.11",
+    "python3.13",
+    "python",
+  ].filter((p): p is string => !!p)
+
+  for (const py of candidates) {
+    try {
+      const probe = spawnSync(py, ["-c", "import torch, fastapi, uvicorn"], {
+        cwd: CORE_ROOT,
+        timeout: 20_000,
+        encoding: "utf-8",
+      })
+      if (probe.status === 0) return py
+    } catch {
+      // try the next candidate
+    }
+  }
+  return "python3"
+}
+
 function spawnNeuralService(): void {
   const out = openSync(SERVICE_LOG, "a")
   const err = openSync(SERVICE_LOG, "a")
   try {
+    const python = resolvePythonInterpreter()
     const child = spawn(
-      "python3",
+      python,
       ["-m", "uvicorn", "syria_ai.inference.service:app", "--host", "127.0.0.1", "--port", "3010"],
       { cwd: CORE_ROOT, detached: true, stdio: ["ignore", out, err] }
     )

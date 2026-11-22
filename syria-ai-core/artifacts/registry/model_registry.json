@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21T08:02:42Z",
+  "updated_at": "2026-11-22T15:03:16Z",
   "models": [
     {
       "model_id": "syria-ai-debug",
       "name": "SYRIA AI Debug",
       "checkpoint_path": "artifacts/models/syria-ai-debug/checkpoint.pt",
-      "checkpoint_bytes": 16256702,
+      "checkpoint_bytes": 16256510,
       "has_checkpoint": true,
       "has_tokenizer": true,
       "has_evaluation": true,

@@ -29,7 +29,6 @@ from syria_ai.training.monitor import full_hardware_report
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 PROC_DIR = os.path.join(ROOT, "data", "processed")
 MODEL_DIR = os.path.join(ROOT, "artifacts", "models", "syria-ai-debug")
-EXP_DIR = os.path.join(ROOT, "artifacts", "experiments", "EXP-001")
 
 
 def evaluate_perplexity(model, valid_bin: str, block_size: int, device, max_batches: int = 30) -> float:
@@ -59,11 +58,21 @@ def main() -> None:
     ap.add_argument("--batch", type=int, default=8)
     ap.add_argument("--lr", type=float, default=3e-3)
     ap.add_argument("--seed", type=int, default=42)
+    ap.add_argument("--exp-id", default="EXP-001", help="experiment identifier (checkpoint dir: artifacts/experiments/<id>)")
+    ap.add_argument(
+        "--deploy",
+        action=argparse.BooleanOptionalAction,
+        default=True,
+        help="copy final artifacts into artifacts/models/syria-ai-debug (use --no-deploy for verification-only runs)",
+    )
+    ap.add_argument("--notes", default="", help="free-text note recorded in training metadata")
     ap.add_argument("--resume", action="store_true", help="resume from existing checkpoint")
     args = ap.parse_args()
 
-    os.makedirs(MODEL_DIR, exist_ok=True)
+    EXP_DIR = os.path.join(ROOT, "artifacts", "experiments", args.exp_id)
     os.makedirs(EXP_DIR, exist_ok=True)
+    if args.deploy:
+        os.makedirs(MODEL_DIR, exist_ok=True)
 
     # --- hardware (honest) --------------------------------------------- #
     hw = full_hardware_report(path=ROOT)
@@ -82,8 +91,15 @@ def main() -> None:
     cfg.vocab_size = tok.vocab_size
 
     # --- training config ------------------------------------------------- #
+    if not args.notes:
+        args.notes = (
+            "First real SYRIA AI neural training run (Debug model, CPU-only)."
+            if args.exp_id == "EXP-001"
+            else f"Independent verification rerun ({args.exp_id}): fresh random weights, different seed, identical data/architecture/hyperparameters for controlled comparison."
+        )
+
     tcfg = TrainingConfig(
-        exp_id="EXP-001",
+        exp_id=args.exp_id,
         out_dir=EXP_DIR,
         train_bin=os.path.join(PROC_DIR, "shards", "train.bin"),
         valid_bin=os.path.join(PROC_DIR, "shards", "valid.bin"),
@@ -101,7 +117,7 @@ def main() -> None:
         seed=args.seed,
         device=device_pref,
         torch_threads=2,
-        notes="First real SYRIA AI neural training run (Debug model, CPU-only).",
+        notes=args.notes,
     )
 
     # --- model (fresh random init, or resume) ---------------------------- #
@@ -153,13 +169,8 @@ def main() -> None:
     # --- copy artifacts to the model directory ----------------------------- #
     import shutil
 
-    tokenizer_model_path = os.path.join(MODEL_DIR, "tokenizer.json")
-    tok.save(tokenizer_model_path)
-    cfg.to_json(os.path.join(MODEL_DIR, "config.json"))
-    shutil.copyfile(ckpt_path, os.path.join(MODEL_DIR, "checkpoint.pt"))
-
     training_metadata = {
-        "experiment_id": "EXP-001",
+        "experiment_id": args.exp_id,
         "model_id": cfg.model_id,
         "architecture": cfg.to_dict(),
         "tokenizer": {"id": "syria-tokenizer", "version": tok.version, "vocab_size": tok.vocab_size, "merges": len(tok.merges)},
@@ -172,11 +183,19 @@ def main() -> None:
         "trained_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
         "checkpoint": metrics["checkpoint"],
     }
-    with open(os.path.join(MODEL_DIR, "training_metadata.json"), "w", encoding="utf-8") as f:
+    if args.deploy:
+        tokenizer_model_path = os.path.join(MODEL_DIR, "tokenizer.json")
+        tok.save(tokenizer_model_path)
+        cfg.to_json(os.path.join(MODEL_DIR, "config.json"))
+        shutil.copyfile(ckpt_path, os.path.join(MODEL_DIR, "checkpoint.pt"))
+    else:
+        print(f"[train] --no-deploy: artifacts kept in {EXP_DIR} only; deployed model dir untouched")
+
+    with open(os.path.join(MODEL_DIR if args.deploy else EXP_DIR, "training_metadata.json"), "w", encoding="utf-8") as f:
         json.dump(training_metadata, f, indent=2, ensure_ascii=False)
 
     evaluation = {
-        "experiment_id": "EXP-001",
+        "experiment_id": args.exp_id,
         "evaluated_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
         "valid_loss": metrics["valid_loss"],
         "best_valid_loss": metrics["best_valid_loss"],
@@ -185,19 +204,23 @@ def main() -> None:
         "quality_note": "Debug-scale model: outputs are mostly incoherent by design. This run proves the neural pipeline, not language quality.",
         "honest_status": "TRAINED (debug scale)",
     }
-    with open(os.path.join(MODEL_DIR, "evaluation_results.json"), "w", encoding="utf-8") as f:
+    eval_target_dir = MODEL_DIR if args.deploy else EXP_DIR
+    with open(os.path.join(eval_target_dir, "evaluation_results.json"), "w", encoding="utf-8") as f:
         json.dump(evaluation, f, indent=2, ensure_ascii=False)
 
     # metrics.json inside model dir too (registry reads it)
-    with open(os.path.join(MODEL_DIR, "metrics.json"), "w", encoding="utf-8") as f:
+    with open(os.path.join(eval_target_dir, "metrics.json"), "w", encoding="utf-8") as f:
         json.dump(metrics, f, indent=2, ensure_ascii=False)
 
-    # keep EXP-001 loss history available to the platform registry
-    shutil.copyfile(os.path.join(MODEL_DIR, "training_metadata.json"), os.path.join(EXP_DIR, "training_metadata.json"))
+    # keep the deployed-model metadata mirrored inside the experiment dir
+    meta_src = os.path.join(eval_target_dir, "training_metadata.json")
+    meta_dst = os.path.join(EXP_DIR, "training_metadata.json")
+    if os.path.abspath(meta_src) != os.path.abspath(meta_dst) and os.path.exists(meta_src):
+        shutil.copyfile(meta_src, meta_dst)
 
     print("[train] artifacts written:")
-    for name in sorted(os.listdir(MODEL_DIR)):
-        p = os.path.join(MODEL_DIR, name)
+    for name in sorted(os.listdir(eval_target_dir)):
+        p = os.path.join(eval_target_dir, name)
         print(f"        {name}: {os.path.getsize(p):,} bytes")
     print("[train] DONE — model TRAINED from scratch.")
 

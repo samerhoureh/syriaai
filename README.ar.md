@@ -193,6 +193,7 @@ docs/                        # وثائق المشروع والبحث
 - [بروتوكول بحث SDSA](docs/SDSA_RESEARCH_PROTOCOL.md) — فرضية معمارية الحالتين القابلة للدحض
 - [تحقق التثبيت النظيف](docs/FRESH_INSTALL_VERIFICATION.md) — أدلة إعادة الإنتاج من نسخة نظيفة
 - [تدقيق الأمن](docs/SECURITY_AUDIT.md) — التعامل مع الرموز وفحص أسرار المستودع
+- [تقرير المرحلة C](docs/PHASE_C_REPORT.md) — ملخص الموثوقية والأمن والتحقق والتوسع
 - [سجل البيانات](docs/DATASET_REGISTRY.md) — مدون SYRIA DATA ENGINE
 - [دليل النشر](docs/PUBLISHING.md) — كيفية نشر هذا المستودع على GitHub
 - [README بالإنجليزية](README.md)

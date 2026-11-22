@@ -198,6 +198,7 @@ These endpoints talk to the real trained checkpoint. If the Python service or th
 - [SDSA research protocol](docs/SDSA_RESEARCH_PROTOCOL.md) — falsifiable dual-state architecture hypothesis
 - [Fresh-install verification](docs/FRESH_INSTALL_VERIFICATION.md) — clean-clone reproducibility evidence
 - [Security audit](docs/SECURITY_AUDIT.md) — token handling & repo secret scan
+- [Phase C report](docs/PHASE_C_REPORT.md) — reproducibility, security, validation & scaling summary
 - [Dataset registry](docs/DATASET_REGISTRY.md) — SYRIA DATA ENGINE corpora
 - [Publishing guide](docs/PUBLISHING.md) — how this repository is published to GitHub
 - [README بالعربية](README.ar.md)

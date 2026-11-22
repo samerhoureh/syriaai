@@ -50,3 +50,14 @@ Caddyfile
 
 # runtime databases (prisma sqlite — regenerated per deployment)
 /db/
+
+# python neural engine
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# local sqlite database (created by prisma db push)
+/db/
+tool-results/ >> .gitignore

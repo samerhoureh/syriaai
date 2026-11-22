@@ -15,5 +15,8 @@ uvicorn>=0.29
 # data pipeline & numeric stack
 numpy>=1.26
 
+# hardware monitoring (CPU/RAM/GPU telemetry for the training engine)
+psutil>=5.9
+
 # engineering tests
 pytest>=8.0

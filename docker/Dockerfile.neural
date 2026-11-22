@@ -1,0 +1,26 @@
+# SYRIA AI neural engine — CPU-only inference/training service
+# (built from the project's own requirements.txt; no pretrained weights are
+#  downloaded — the checkpoint comes from the repository artifacts).
+FROM python:3.12-slim
+
+WORKDIR /app
+
+# CPU torch wheel — the debug model needs no GPU
+RUN pip install --no-cache-dir torch --index-url https://download.pytorch.org/whl/cpu
+
+COPY requirements.txt ./
+RUN pip install --no-cache-dir -r requirements.txt
+
+# engine source
+COPY syria_ai ./syria_ai
+COPY scripts ./scripts
+
+# data + artifacts are expected to be volume-mounted (see docker-compose.yml):
+#   /app/data        licensed corpus + processed shards + tokenizer
+#   /app/artifacts   checkpoints, experiments, proofs, registry
+ENV PYTHONUNBUFFERED=1
+
+EXPOSE 3010
+
+# standalone service with its own health endpoint (GET /health)
+CMD ["python", "-m", "uvicorn", "syria_ai.inference.service:app", "--host", "0.0.0.0", "--port", "3010"]

@@ -344,7 +344,7 @@ Standard mixed `valid.bin`, identical evaluator code path for every variant. Cap
 
 ### 8.3 Minimum data / compute preconditions (scaling-plan linkage)
 
-`docs/SCALING_PLAN.md` does not exist yet; the staged scaling rule lives in `docs/ROADMAP.md` (small-first gating: Debug → Nano → Mini → Base → Pro) and `docs/PROJECT_STATUS.md`. This protocol therefore defines its preconditions relative to that order and requires the scaling plan document to be authored (or ROADMAP amended) before gate G2 can pass. Preconditions:
+The staged scaling plan now exists at `docs/SCALING_PLAN.md` (Debug → 5M → 15M → Nano with resource estimates and decision gates G1–G3). This protocol's preconditions are anchored to that plan (and to the ROADMAP gating order Debug → Nano → Mini → Base → Pro where the plan is silent). Preconditions:
 
 - **P1 (compute feasibility):** estimated wall-clock for the full matrix ≤ 8 CPU-hours at Debug scale (feasible: one run ≈ 8.3 min; ~30 runs ≈ 4 h; measured, not assumed).
 - **P2 (eval measurability):** ≥ 2,000 tokens per register in held-out data (≥ 5,000 preferred), verified by the EXP-002 register histogram.

@@ -41,6 +41,8 @@ export async function POST(req: NextRequest) {
       batch?: number
       lr?: number
       seed?: number
+      expId?: string
+      deploy?: boolean
     }
     const action = body.action ?? "start"
 
@@ -64,12 +66,15 @@ export async function POST(req: NextRequest) {
     }
 
     // action === "start"
+    const expId = /^EXP-[A-Za-z0-9_-]{1,24}$/.test(body.expId ?? "") ? body.expId! : "EXP-001"
     const payload = {
       steps: Math.min(20000, Math.max(50, Number(body.steps) || 1200)),
       vocab_size: 4096,
       batch_size: Math.min(64, Math.max(1, Number(body.batch) || 8)),
       lr: Number(body.lr) || 0.003,
       seed: Number(body.seed) || 42,
+      exp_id: expId,
+      deploy: body.deploy !== false,
       notes: "Started from the SYRIA AI platform Training Studio",
     }
     const res = await neuralFetch<TrainingStartResult>("/v1/training/start", { method: "POST", body: payload }, 15000)

@@ -1,0 +1,56 @@
+{
+  "experiment_id": "EXP-002",
+  "model_id": "syria-ai-debug",
+  "architecture": {
+    "model_id": "syria-ai-debug",
+    "arch_name": "decoder-only-baseline",
+    "vocab_size": 4096,
+    "block_size": 256,
+    "n_layer": 4,
+    "n_head": 4,
+    "n_embd": 128,
+    "ffn_mult": 4,
+    "dropout": 0.1,
+    "bias": true,
+    "norm": "rmsnorm",
+    "weight_tying": true,
+    "activation": "gelu-tanh"
+  },
+  "tokenizer": {
+    "id": "syria-tokenizer",
+    "version": "1.0.0",
+    "vocab_size": 4096,
+    "merges": 3832
+  },
+  "training": {
+    "steps_completed": 1200,
+    "max_steps": 1200,
+    "tokens_processed": 2457600,
+    "first_train_loss": 8.3653,
+    "final_train_loss": 3.9293,
+    "valid_loss": 4.3394,
+    "best_valid_loss": 4.3326,
+    "duration_sec": 472.3,
+    "avg_tokens_per_sec": 5203.8
+  },
+  "hardware": {
+    "device": "cpu",
+    "available": false,
+    "devices": [],
+    "message": "No GPU detected",
+    "backend": "none",
+    "threads": 2
+  },
+  "optimizer": "AdamW (warmup + cosine decay, grad clip 1.0)",
+  "seed": 1337,
+  "resumed_from_step": null,
+  "dataset": {
+    "stats_file": "data/processed/dataset_stats.json",
+    "policy": "no external AI-generated data; licenses enforced"
+  },
+  "trained_at": "2026-11-22T18:37:48Z",
+  "checkpoint": {
+    "path": "artifacts/experiments/EXP-002/checkpoint.pt",
+    "bytes": 16256574
+  }
+}

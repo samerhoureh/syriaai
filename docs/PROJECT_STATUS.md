@@ -1,15 +1,15 @@
-# Status: Phase B — Original AI Model Engineering (live)
+# Status: Phase C — Reproducibility, Security & Scientific Validation (live)
 
 ## المرحلة الحالية
 
-**PHASE B — بناء النموذج العصبي الأصلي**: أول نموذج SYRIA AI (Debug) **أُنشئ ودُرِّب فعلياً من الصفر** — تجربة EXP-001 موثقة بالأوزان والسجلات.
+**PHASE C — الموثوقية العلمية والتحقق المستقل**: بعد اكتمال المرحلة B (تدريب EXP-001 من الصفر)، رُفع مستوى المشروع إلى أساس بحثي قابل لإعادة الإنتاج: تجربة تحقق مستقلة **EXP-002** (بذرة 1337، أوزان جديدة تماماً) أعادت إنتاج النتيجة ضمن ضوضاء البذرة (|Δ valid| = 0.0095 ≤ 0.05)، مع تدقيق أمني كامل، واختبارات سلامة علمية جديدة (55/55)، ووثائق توزيع وتوسع وبروتوكول بحث SDSA قابل للدحض.
 
 ## الحالة الصادقة للعائلة
 
 | النموذج | الحالة | الدليل |
 |---|---|---|
-| **SYRIA AI Debug** (~1.35M) | **TRAINED** (debug scale) | `syria-ai-core/artifacts/models/syria-ai-debug/checkpoint.pt` (16.2MB) + `TRAINING_REPORT_EXP-001.md` |
-| SYRIA AI Nano — 50M | **PLANNED** | يتطلب GPU ~24GB — لم يبدأ التدريب، لا أوزان موجودة |
+| **SYRIA AI Debug** (1,349,248) | **TRAINED** — EXP-001 + تحقق مستقل EXP-002 | `artifacts/models/syria-ai-debug/checkpoint.pt` (SHA-256 `448a297d…`) + `TRAINING_REPORT_EXP-001.md` + `TRAINING_REPORT_EXP-002.md` |
+| SYRIA AI Nano — 50M | **PLANNED — BLOCKED: موارد + بيانات** | `SCALING_PLAN.md`: غير قابل للتدريب على 2-CPU (117–273 يوماً)؛ بوابة بيانات ≥100M توكن فريد + قرار GPU سحابي |
 | SYRIA AI Mini — 150M | **PLANNED** | لم يبدأ التدريب |
 | SYRIA AI Base — 1B | PLANNED | — |
 | SYRIA AI Pro — 3B | PLANNED | — |
@@ -23,11 +23,14 @@
 |---|---|---|
 | 0 — اكتشاف تقني | مكتمل | تدقيق بيئة: 2 CPU / 4GB RAM / لا GPU |
 | 1 — أساس هندسي | مكتمل | منصة Next.js + توثيق |
-| 2 — النموذج العصبي الأصلي | **مكتمل (فعلي)** | Transformer من الصفر: 34/34 اختبار، تدفق تدرج 43/43 معامل |
+| 2 — النموذج العصبي الأصلي | **مكتمل (فعلي)** | Transformer من الصفر: 55/55 اختبار، تدفق تدرج 43/43 معامل |
 | 3 — Tokenizer + خط البيانات | **مكتمل (فعلي)** | SYRIA TOKENIZER (3832 merge) + DATA ENGINE + مدونة مرخصة 230K توكن |
-| 4 — أول تدريب مسبق ناجح | **مكتمل (فعلي)** | **EXP-001**: 1,200 خطوة، 2.46M توكن، loss 7.77→3.92، ppl 75.35 |
-| 5 — بحث المعمارية (SDSA) | وثيقة بحثية جاهزة | `docs/SDSA_RESEARCH.md` — لا ادعاء تفوق قبل التجارب |
-| 6 — Nano 50M | **BLOCKED: يتطلب GPU** | خطة الموارد جاهزة في ROADMAP |
+| 4 — أول تدريب مسبق ناجح | **مكتمل (فعلي)** | **EXP-001**: 1,200 خطوة، 2.46M توكن معالج (~10.7 دورة على 230K توكن فريد)، loss 8.34→3.92، valid 4.33، ppl 75.35 |
+| 4b — التحقق المستقل (Phase C) | **مكتمل (فعلي)** | **EXP-002** (seed 1337): valid 4.3394، انتشار البذرة 0.0095 → بوابة G1 PASS؛ إعادة تحميل مستقلة + توليد موثق |
+| 4c — تدقيق البيانات العلمي | **مكتمل** | `DATASET_REVIEW.md`: تقسيمات غير متداخلة (مُثبت)، التوكنات الفريدة مقابل المعالجة، تراخيص ويكيبيديا (CC BY-SA)، لهجة سورية 5.8% (محدودة وموسومة) |
+| 5 — بحث المعمارية (SDSA) | بروتوكول قابل للدحض جاهز | `SDSA_RESEARCH_PROTOCOL.md` — فرضية H1 + مصفوفة ablation + بوابات G0–G3؛ لا تدريب قبل البوابات |
+| 5b — خطة التوسع | **مكتملة** | `SCALING_PLAN.md`: صيغة معاملات مُتحققة، مراحل 5M/15M قابلة محلياً، Nano يتطلب GPU سحابي، بوابات G1–G3 |
+| 6 — Nano 50M | **BLOCKED: GPU + بيانات** | خطة الموارد وبوابات القرار في `SCALING_PLAN.md` |
 | 7 — محرك الاستدلال | **مكتمل (فعلي)** | FastAPI مستقلة (3010) + إعادة تحميل موثقة + streaming + إلغاء |
 | 8 — API Backend | مكتمل | `/api/neural/*` بوابة حقيقية + فصل REAL/DEMO/UNAVAILABLE |
 | 9 — الويب واللوحات | مكتمل | Training Studio مربوط بالمحرك الفعلي (بدء/إيقاف/متابعة حقيقية) |
@@ -35,7 +38,10 @@
 
 ## مؤشرات التحقق المستقلة
 
-- **34/34** اختبار pytest ناجح → `syria-ai-core/artifacts/test_reports/pytest.json`
+- **55/55** اختبار pytest ناجح (يشمل 5 اختبارات سلامة علمية جديدة في `test_robustness.py`) — CPU فقط
 - الفحص الذاتي: تدرج على **43/43** معامل، تحديث أوزان فعلي → `selftest.json`
-- إعادة تحميل Checkpoint في عملية مستقلة + توليد عصبي موثق → `artifacts/proofs/reload_generation_proof.json`
+- إعادة تحميل Checkpoint في عملية مستقلة + توليد عصبي موثق → EXP-001: `proofs/reload_generation_proof.json`، EXP-002: `proofs/reload_generation_proof_exp002.json`
+- تحقق التثبيت النظيف من نسخة مطابقة للمستودع المنشور → `FRESH_INSTALL_VERIFICATION.md` (اكتشاف وإصلاح: `psutil` كان مفقوداً من `requirements.txt`)
+- تدقيق أمن المستودع (رموز/سجل/Actions/artifacts) → `SECURITY_AUDIT.md`
 - تقرير العتاد الصادق: `No GPU detected` (لا GPU في بيئة التنفيذ الحالية)
+- عائق خارجي موثق: فشل GitHub Actions بسبب مشكلة فوترة/قفل حساب — يتطلب إجراء من مالك الحساب؛ بعد الحل تُعاد تشغيل CI ويجب أن تنجح المهامان (ci.yml + python-tests.yml)

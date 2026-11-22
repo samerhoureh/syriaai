@@ -1,0 +1,30 @@
+# SYRIA AI web platform — Next.js 16 standalone build
+FROM oven/bun:1 AS deps
+WORKDIR /app
+COPY package.json bun.lock ./
+RUN bun install --frozen-lockfile
+
+FROM oven/bun:1 AS builder
+WORKDIR /app
+COPY --from=deps /app/node_modules ./node_modules
+COPY . .
+# build-time DATABASE_URL (runtime uses the compose volume)
+RUN echo 'DATABASE_URL="file:./db/custom.db"' > .env && mkdir -p db \
+    && bunx prisma generate \
+    && bun run build
+
+FROM oven/bun:1 AS runner
+WORKDIR /app
+ENV NODE_ENV=production
+COPY --from=builder /app/.next/standalone ./
+COPY --from=builder /app/.next/static ./.next/static
+COPY --from=builder /app/public ./public
+# prisma engine + schema for db push / seed on first run
+COPY --from=builder /app/node_modules/.prisma ./node_modules/.prisma
+COPY --from=builder /app/prisma ./prisma
+COPY --from=builder /app/prisma/seed.ts ./prisma/seed.ts
+COPY docker/platform-entrypoint.sh ./platform-entrypoint.sh
+RUN chmod +x ./platform-entrypoint.sh
+
+EXPOSE 3000
+ENTRYPOINT ["./platform-entrypoint.sh"]

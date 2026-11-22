@@ -19,14 +19,15 @@
 | معمارية | vocab 4096, block 256, 4 layers, 4 heads, d_model 128, RMSNorm, weight-tying | `config.json` |
 | خطوات التدريب | 1,200 / 1,200 | `metrics.json` |
 | التوكنات المعالجة | **2,457,600** | `metrics.json` |
-| الخسارة الأولى (step 10) | 7.7714 | `log.jsonl` |
+| الخسارة الأولى (أول batch) | 8.3441 | `metrics.json` (`first_train_loss`) |
+| الخسارة عند الخطوة 10 (سجل التدريب) | 7.7714 | `log.jsonl` |
 | الخسارة النهائية (تدريب) | **3.9207** | `metrics.json` |
 | الخسارة النهائية (تحقق) | **4.3299** | `metrics.json` |
 | Perplexity (تحقق مستبعد) | 75.35 | `evaluation_results.json` |
-| المدة | 499.6 ثانية (~8.3 دقيقة) | `metrics.json` |
-| متوسط الإنتاجية التدريبية | ~4,917 tok/s (CPU) | محسوبة من tokens/duration |
+| المدة | 469.5 ثانية (~7.8 دقيقة) | `metrics.json` |
+| متوسط الإنتاجية التدريبية | 5,234.3 tok/s (CPU) | `metrics.json` (`avg_tokens_per_sec`) |
 | إنتاجية الاستدلال | ~396 tok/s (توليد) | `proofs/reload_generation_proof.json` |
-| الحجم | checkpoint.pt = 16,256,702 bytes | `ls -l` |
+| الحجم | checkpoint.pt = 16,256,510 bytes | `ls -l` |
 | العتاد | CPU: 2 logical cores؛ GPU: غير متوفر | `monitor.py` (psutil/torch.cuda) |
 
 منحنى الخسارة الكامل موثق خطوة-بخطوة في `syria-ai-core/artifacts/experiments/EXP-001/log.jsonl`.

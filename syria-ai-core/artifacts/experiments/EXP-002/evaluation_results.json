@@ -1,0 +1,31 @@
+{
+  "experiment_id": "EXP-002",
+  "evaluated_at": "2026-11-22T18:37:48Z",
+  "valid_loss": 4.3394,
+  "best_valid_loss": 4.3326,
+  "perplexity_held_out": 76.23,
+  "generation_samples": [
+    {
+      "prompt": "دمشق",
+      "output": "دمشق في على بده الآخر مرتفعة دير شوي.\nالسوق كان دير كيف في إدلب الخير، بتعود كنت بس في الآخر شوي.\nمرحبا، الأثمنة يوم الآخر",
+      "note": "generated from trained weights (quality expected to be weak)"
+    },
+    {
+      "prompt": "المدرسة",
+      "output": "المدرسة حمص جميل، دير مرتفعة عن بس بده في الأثمنة الزور في الأخبار، في دمشق شوي.\nعلى مرتفعة في حلب بده شوي.\nهلق اليوم بتعلمنا",
+      "note": "generated from trained weights (quality expected to be weak)"
+    },
+    {
+      "prompt": "The project",
+      "output": "The project of to of for to a that the to or or a can as in their in as that on a to inquated",
+      "note": "generated from trained weights (quality expected to be weak)"
+    },
+    {
+      "prompt": "def add",
+      "output": "def add to the the the the Fl of of Sly the and to The of onran the to of Et,oruent",
+      "note": "generated from trained weights (quality expected to be weak)"
+    }
+  ],
+  "quality_note": "Debug-scale model: outputs are mostly incoherent by design. This run proves the neural pipeline, not language quality.",
+  "honest_status": "TRAINED (debug scale)"
+}

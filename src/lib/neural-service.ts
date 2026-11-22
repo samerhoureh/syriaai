@@ -2,17 +2,31 @@
  * SYRIA AI — Neural engine bridge (server-only).
  *
  * Connects the Next.js platform to the REAL trained neural engine running as a
- * Python FastAPI service (syria-ai-core, port 3010). The sandbox may kill
- * detached processes at any time, so every access path lazily probes the
- * service and auto-starts it once if it is down. All helpers return `null`
- * on failure and never throw to the caller.
+ * standalone Python FastAPI service (syria-ai-core, default port 3010).
+ *
+ * Lifecycle contract (production-safe):
+ *   - The inference engine is meant to run as an INDEPENDENT service with its
+ *     own health checks (GET /health) — not spawned per user request.
+ *   - If NEURAL_AUTOSTART=0 the bridge NEVER spawns anything: it only probes
+ *     the configured URL and honestly reports MODEL_NOT_READY when down.
+ *     This is the recommended production posture (systemd/Docker/k8s run the
+ *     service, the platform just talks to it).
+ *   - In development (default NEURAL_AUTOSTART=1) the bridge lazily starts the
+ *     service ONCE via a single in-flight promise guard and reuses it; the
+ *     spawn is never repeated per request.
  * ------------------------------------------------------------------------- */
 
 import { spawn, spawnSync } from "child_process"
 import { join } from "path"
 import { openSync } from "fs"
 
-const NEURAL_BASE = "http://127.0.0.1:3010"
+/**
+ * Base URL of the neural inference service. Override for standalone/sidecar
+ * deployments or when running the clean-install verification on another port.
+ */
+const NEURAL_BASE = process.env.NEURAL_SERVICE_URL || "http://127.0.0.1:3010"
+/** When "0", the bridge never spawns the Python service (production mode). */
+const NEURAL_AUTOSTART = process.env.NEURAL_AUTOSTART !== "0"
 /**
  * Root of the SYRIA AI neural core package. Resolved relative to the Next.js
  * project root (process.cwd()) so the platform works from any checkout path.
@@ -135,6 +149,9 @@ function spawnNeuralService(): void {
 export async function ensureNeuralService(): Promise<NeuralHealthInfo | null> {
   const alive = await probeNeuralService()
   if (alive) return alive
+
+  // Production posture: never spawn; surface an honest not-ready state.
+  if (!NEURAL_AUTOSTART) return null
 
   const singleton = g.__syriaNeural!
   if (singleton.starting) {

@@ -1,0 +1,31 @@
+{
+  "proof": "EXP-002 checkpoint reloaded in an independent process and used for real generation",
+  "checkpoint": "artifacts/experiments/EXP-002/checkpoint.pt",
+  "checkpoint_sha256": "e8a72be71039eca1bdf58b4abc5afe7f4f8b3b8cbb49d30c0b2265637c73cc5e",
+  "checkpoint_bytes": 16256574,
+  "checkpoint_step": 1200,
+  "strict_state_dict_load": true,
+  "model_id": "syria-ai-debug",
+  "params": 1349248,
+  "generated_at": "2026-11-22T18:38:16Z",
+  "samples": [
+    {
+      "prompt": "دمشق",
+      "output": "دمشق على على في حمص اليوم الجو كثير اليوم رأيك القمح وقت.\nفي كان في القطن في طرطوس شوي.\nفي اليوم",
+      "new_tokens": 40,
+      "gen_tokens_per_sec": 541.4
+    },
+    {
+      "prompt": "المدرسة",
+      "output": "المدرسة طرطوس الآخر في حمص اليوم الحال كثير اليوم رأيك القمح وقت.\nفي كان في بسيط، رأيك طرطوس شوي.\nفي اليوم",
+      "new_tokens": 40,
+      "gen_tokens_per_sec": 411.3
+    },
+    {
+      "prompt": "The project",
+      "output": "The project are be that is but in to agricultural on tocidor the on the a of in has the",
+      "new_tokens": 40,
+      "gen_tokens_per_sec": 389.7
+    }
+  ]
+}

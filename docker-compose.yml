@@ -1,0 +1,59 @@
+# SYRIA AI — local development stack (Next.js platform + neural FastAPI engine)
+#
+# This compose file exists for reproducible local runs and clean-install checks.
+# NOTE (honesty): it has NOT been executed inside the original development
+# sandbox (no Docker daemon available there). It is expected to build and run
+# on any Docker-enabled host; the GitHub Actions Python workflow provides the
+# equivalent environment-independent verification of the neural engine.
+#
+#   docker compose up --build
+#   platform:  http://localhost:3000   (db push + seed run automatically)
+#   neural:    http://localhost:3010/health
+#
+# The platform container runs with NEURAL_AUTOSTART=0 and talks to the `neural`
+# service over the compose network — the production posture (never spawn a
+# Python interpreter per user request).
+
+services:
+  neural:
+    build:
+      context: ./syria-ai-core
+      dockerfile: ../docker/Dockerfile.neural
+    image: syriaai/neural:latest
+    container_name: syria-neural
+    restart: unless-stopped
+    ports:
+      - "3010:3010"
+    volumes:
+      # keep checkpoints/experiments/logs on the host across container rebuilds
+      - ./syria-ai-core/artifacts:/app/artifacts
+      - ./syria-ai-core/data:/app/data
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request;urllib.request.urlopen('http://127.0.0.1:3010/health', timeout=5)"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+  platform:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.platform
+    image: syriaai/platform:latest
+    container_name: syria-platform
+    restart: unless-stopped
+    depends_on:
+      neural:
+        condition: service_healthy
+    ports:
+      - "3000:3000"
+    environment:
+      DATABASE_URL: "file:/data/custom.db"
+      NEURAL_SERVICE_URL: "http://neural:3010"
+      NEURAL_AUTOSTART: "0"
+      NODE_ENV: production
+    volumes:
+      - platform-db:/data
+
+volumes:
+  platform-db:

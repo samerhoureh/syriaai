@@ -74,6 +74,10 @@ class TrainingStartRequest(BaseModel):
     batch_size: int = Field(default=8, ge=1, le=64)
     lr: float = Field(default=3e-3, gt=0, le=0.1)
     seed: int = Field(default=42)
+    # experiment identifier — becomes artifacts/experiments/<exp_id>; safe charset
+    exp_id: str = Field(default="EXP-001", pattern=r"^EXP-[A-Za-z0-9_-]{1,24}$")
+    # verification-only runs keep the deployed model dir untouched
+    deploy: bool = True
     notes: str = ""
 
 
@@ -230,15 +234,20 @@ def training_start(req: TrainingStartRequest) -> dict:
             "--batch", str(req.batch_size),
             "--lr", str(req.lr),
             "--seed", str(req.seed),
+            "--exp-id", req.exp_id,
         ]
+        if not req.deploy:
+            cmd.append("--no-deploy")
+        if req.notes:
+            cmd.extend(["--notes", req.notes])
         _train_proc = subprocess.Popen(
             cmd, cwd=CORE_ROOT,
             stdout=open(os.path.join(CORE_ROOT, "artifacts", "training_console.log"), "ab"),
             stderr=subprocess.STDOUT,
             preexec_fn=os.setsid,
         )
-        _train_meta = {"started_at": time.time(), "pid": _train_proc.pid, "steps": req.steps}
-        return {"ok": True, "pid": _train_proc.pid, "exp_id": "EXP-001", "command": " ".join(cmd)}
+        _train_meta = {"started_at": time.time(), "pid": _train_proc.pid, "steps": req.steps, "exp_id": req.exp_id, "deploy": req.deploy}
+        return {"ok": True, "pid": _train_proc.pid, "exp_id": req.exp_id, "command": " ".join(cmd)}
 
 
 @app.post("/v1/training/stop")
@@ -259,11 +268,13 @@ def training_stop() -> dict:
 def training_status() -> dict:
     with _train_lock:
         running = _train_proc is not None and _train_proc.poll() is None
-        exp = get_experiment("EXP-001")
+        active_exp = _train_meta.get("exp_id") if _train_meta else None
+        exp = get_experiment(active_exp or "EXP-001")
         return {
             "running": running,
             "pid": _train_proc.pid if _train_proc else None,
             "started_at": _train_meta["started_at"] if _train_meta else None,
+            "active_experiment": active_exp,
             "latest_experiment": exp,
         }
 

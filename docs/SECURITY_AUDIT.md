@@ -27,7 +27,7 @@ Every scan below was executed against the working tree and full history (`--all`
 | 1 | Working tree — token patterns (`github_pat_…`, `ghp_…`, `gho_…`, `ghs_…`, `ghu_…`, `x-access-token`) | `git grep -i -E` across tracked files | **Clean.** 3 matches are UI placeholder strings (`SK-syria-****`, `sy-your-api-key`, `SK-syria-...`) in API-documentation examples — not credentials. |
 | 2 | Git history — the actual publishing token prefix | `git log --all -S "11BTENSHY02X"` | **Not found in any commit.** |
 | 3 | Git history — generic token patterns | `git log --all -S "github_pat"` and `-S "ghp_"` | **Not found in any commit.** |
-| 4 | Git remote configuration | `git config --local --list`, `.git/config` | **No remote configured** (the temporary authenticated push URL was not persisted). No `insteadOf` rewrites, no embedded credentials. |
+| 4 | Git remote configuration | `git config --local --list`, `.git/config` | **Clean.** `origin` = `https://github.com/samerhoureh/syriaai.git` with **no embedded credentials**; every authenticated push is performed with an ephemeral in-memory token (`x-access-token` URL constructed from an env var, never persisted). No `insteadOf` rewrites. Verified again after the 2026-11-22T22:2xZ push: no `credential`, `token`, `pat` or `password` strings in `.git/config`. |
 | 5 | Machine credential stores | `~/.git-credentials`, `~/.netrc`, `~/.config/gh/hosts.yml`, credential-helper config | **All absent.** No credential helper is configured; nothing was cached. |
 | 6 | Checkpoints & artifacts (`artifacts/models/syria-ai-debug/*`, `artifacts/experiments/EXP-001/*`) | Manual review of JSON metadata + hash inventory (see `docs/MODEL_DISTRIBUTION.md`) | **No credentials.** Files contain only architecture hyperparameters, training metrics, seeds, timestamps, and file sizes. |
 | 7 | Training logs (`artifacts/experiments/*/log.jsonl`, test reports) | Key-level review | **No credentials.** Keys: timestamp, event, step, loss, lr, tokens, tokens/sec, CPU/RAM usage, GPU message. |
@@ -91,3 +91,13 @@ git grep -l "/home/z" -- .
 # workflows under audit
 cat .github/workflows/ci.yml .github/workflows/python-tests.yml
 ```
+
+
+## 7. Publishing events log (this machine)
+
+| UTC time (2026-11-22) | Event | Auth method | Persistence of credential |
+|---|---|---|---|
+| earlier session | Initial publishing of the repository (up to `bac2935`) | Interactive fine-grained PAT (owner-operated) | None — not stored on disk |
+| ~22:20Z | Push `bac2935..947ac57` (Phase C deliverables + EXP-001 reproduction evidence) via `git push` to `origin` | Fine-grained PAT supplied in-chat by the owner, held **only** in a shell env var for the duration of the command | **None** — env var unset immediately after push; absent from `.git/config`, logs, and history |
+
+**Standing requirement:** any token shared through a chat channel is treated as exposed. The token used for the ~22:20Z push must be revoked by the owner after this session (GitHub → Settings → Developer settings → Fine-grained tokens), and replacements must be delivered out-of-band only. Revocation — not history rewriting — is the invalidation mechanism.

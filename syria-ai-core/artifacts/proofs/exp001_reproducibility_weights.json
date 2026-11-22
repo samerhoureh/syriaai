@@ -1,0 +1,21 @@
+{
+  "proof": "EXP-001 determinism check: original committed checkpoint vs Training-Studio rerun (2026-11-22T22:08Z)",
+  "method": "torch.equal on every model_state tensor",
+  "original_checkpoint_sha256": "448a297df2c0d9afc9a7cc0a283f45bab5d6da377daa26ba325709195f43f541",
+  "rerun_checkpoint_sha256": "886328f477daac5d707d99869b24ebd5c651b42b1482d73a59941a58df9bba3f",
+  "num_tensors_compared": 44,
+  "all_tensors_identical": true,
+  "differing_tensors": [],
+  "identical_final_metrics": {
+    "final_train_loss": "3.9207 == 3.9207",
+    "valid_loss": "4.3299 == 4.3299",
+    "best_valid_loss": "4.3171 == 4.3171",
+    "steps": "1200 == 1200",
+    "seed": "42 == 42"
+  },
+  "wall_clock_only_differences": {
+    "duration_sec": "469.5 vs 465.6",
+    "avg_tokens_per_sec": "5234.3 vs 5278.0",
+    "bytes": "16256510 vs 16256446 (serialization metadata)"
+  }
+}

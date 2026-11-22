@@ -83,3 +83,20 @@ python3 scripts/generate.py --prompt "دمشق" --max-new-tokens 40 --seed 7
 ## 7. الخطوة التالية المباشرة
 
 SYRIA AI Nano (50M) بعد تقدير الموارد: يتطلب GPU واحد ~24GB وزمن تدريب أيام-أسابيع على مدونة أكبر بعشرات GB — خطة الحوسبة موثقة في `docs/ROADMAP.md`.
+
+## 8. إعادة الإنتاج الحتمية (Deterministic Reproduction)
+
+في 2026-11-22T22:08Z أُعيد تشغيل نفس إعداد EXP-001 (seed 42, 1200 steps) من واجهة Training Studio كاختبار إعادة إنتاج مستقل:
+
+| المقياس | التشغيل الأصلي | إعادة التشغيل |
+|---|---|---|
+| final_train_loss | 3.9207 | 3.9207 |
+| valid_loss (step 1200) | 4.3299 | 4.3299 |
+| best_valid_loss | 4.3171 | 4.3171 |
+| المعاملات | 1,349,248 | 1,349,248 |
+
+**النتيجة على مستوى الأوزان:** مقارنة `torch.equal` بين checkpoint التشغيل الأصلي (SHA-256 `448a297d…`) و checkpoint إعادة التشغيل عبر **44/44 موتر — متطابقة بتّياً (bit-identical)**. الاختلافات الوحيدة كانت زمن الحائط (469.5s مقابل 465.6s) وبيانات تسلسل الملف — أي أن التدريب حتمي بالكامل على نفس العتاد والـseed.
+
+- سجل إعادة التشغيل الكامل: `syria-ai-core/artifacts/experiments/EXP-001/reproducibility_run.jsonl`
+- إثبات تطابق الأوزان: `syria-ai-core/artifacts/proofs/exp001_reproducibility_weights.json`
+- الأثر المنشور (deployed) لم يُستبدل؛ SHA-256 الموثق في MODEL_CARD يبقى صحيحاً.

@@ -1,11 +1,11 @@
 {
   "suite": "syria-ai-core",
-  "ran_at": "2026-11-22T14:56:24Z",
-  "passed": 47,
+  "ran_at": "2026-11-22T22:19:19Z",
+  "passed": 55,
   "failed": 0,
   "errors": 0,
   "exit_code": 0,
-  "duration_sec": 10.9,
+  "duration_sec": 10.5,
   "all_passed": true,
-  "output_tail": "...............................................                          [100%]\n47 passed in 6.71s\n"
+  "output_tail": ".......................................................                  [100%]\n55 passed in 6.26s\n"
 }

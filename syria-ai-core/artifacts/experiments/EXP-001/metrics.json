@@ -1,0 +1,53 @@
+{
+  "exp_id": "EXP-001",
+  "status": "completed",
+  "model_id": "syria-ai-debug",
+  "params": 1349248,
+  "steps_completed": 1200,
+  "max_steps": 1200,
+  "tokens_processed": 2457600,
+  "first_train_loss": 8.3441,
+  "final_train_loss": 3.9207,
+  "valid_loss": 4.3299,
+  "best_valid_loss": 4.3171,
+  "duration_sec": 469.5,
+  "avg_tokens_per_sec": 5234.3,
+  "hardware": {
+    "device": "cpu",
+    "available": false,
+    "devices": [],
+    "message": "No GPU detected",
+    "backend": "none",
+    "threads": 2
+  },
+  "checkpoint": {
+    "path": "artifacts/experiments/EXP-001/checkpoint.pt",
+    "bytes": 16256510
+  },
+  "config": {
+    "exp_id": "EXP-001",
+    "out_dir": "artifacts/experiments/EXP-001",
+    "train_bin": "data/processed/shards/train.bin",
+    "valid_bin": "data/processed/shards/valid.bin",
+    "batch_size": 8,
+    "grad_accum": 1,
+    "max_steps": 1200,
+    "lr": 0.003,
+    "min_lr_ratio": 0.1,
+    "warmup_steps": 60,
+    "weight_decay": 0.01,
+    "grad_clip": 1.0,
+    "betas": [
+      0.9,
+      0.95
+    ],
+    "eval_interval": 120,
+    "eval_batches": 12,
+    "log_interval": 10,
+    "checkpoint_interval": 300,
+    "seed": 42,
+    "device": "auto",
+    "torch_threads": 2,
+    "notes": "First real SYRIA AI neural training run (Debug model, CPU-only)."
+  }
+}

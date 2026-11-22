@@ -1,0 +1,402 @@
+# Corpus Attribution (required by CC BY-SA 4.0)
+
+All Wikipedia-derived text above is licensed CC BY-SA 4.0 (with GFDL fallback).
+
+
+## ar.wikipedia.org — 266 articles
+
+- [أبرشية أنتيغونيا](https://ar.wikipedia.org/wiki/%D8%A3%D8%A8%D8%B1%D8%B4%D9%8A%D8%A9_%D8%A3%D9%86%D8%AA%D9%8A%D8%BA%D9%88%D9%86%D9%8A%D8%A7) — CC BY-SA 4.0
+- [جبل كوكب](https://ar.wikipedia.org/wiki/%D8%AC%D8%A8%D9%84_%D9%83%D9%88%D9%83%D8%A8) — CC BY-SA 4.0
+- [أبو نيتولة (قرية)](https://ar.wikipedia.org/wiki/%D8%A3%D8%A8%D9%88_%D9%86%D9%8A%D8%AA%D9%88%D9%84%D8%A9_%28%D9%82%D8%B1%D9%8A%D8%A9%29) — CC BY-SA 4.0
+- [أنخل](https://ar.wikipedia.org/wiki/%D8%A3%D9%86%D8%AE%D9%84) — CC BY-SA 4.0
+- [الحجر الأسود (مدينة)](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AD%D8%AC%D8%B1_%D8%A7%D9%84%D8%A3%D8%B3%D9%88%D8%AF_%28%D9%85%D8%AF%D9%8A%D9%86%D8%A9%29) — CC BY-SA 4.0
+- [السخنة (حمص)](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B3%D8%AE%D9%86%D8%A9_%28%D8%AD%D9%85%D8%B5%29) — CC BY-SA 4.0
+- [الشيخ مصطفى](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B4%D9%8A%D8%AE_%D9%85%D8%B5%D8%B7%D9%81%D9%89) — CC BY-SA 4.0
+- [2025 في سوريا](https://ar.wikipedia.org/wiki/2025_%D9%81%D9%8A_%D8%B3%D9%88%D8%B1%D9%8A%D8%A7) — CC BY-SA 4.0
+- [أبجدية أوغاريتية](https://ar.wikipedia.org/wiki/%D8%A3%D8%A8%D8%AC%D8%AF%D9%8A%D8%A9_%D8%A3%D9%88%D8%BA%D8%A7%D8%B1%D9%8A%D8%AA%D9%8A%D8%A9) — CC BY-SA 4.0
+- [إيالة الرقة](https://ar.wikipedia.org/wiki/%D8%A5%D9%8A%D8%A7%D9%84%D8%A9_%D8%A7%D9%84%D8%B1%D9%82%D8%A9) — CC BY-SA 4.0
+- [التجنيد الإجباري في سوريا](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AA%D8%AC%D9%86%D9%8A%D8%AF_%D8%A7%D9%84%D8%A5%D8%AC%D8%A8%D8%A7%D8%B1%D9%8A_%D9%81%D9%8A_%D8%B3%D9%88%D8%B1%D9%8A%D8%A7) — CC BY-SA 4.0
+- [أبحاث عن الجبال](https://ar.wikipedia.org/wiki/%D8%A3%D8%A8%D8%AD%D8%A7%D8%AB_%D8%B9%D9%86_%D8%A7%D9%84%D8%AC%D8%A8%D8%A7%D9%84) — CC BY-SA 4.0
+- [أوكوا الشرقية](https://ar.wikipedia.org/wiki/%D8%A3%D9%88%D9%83%D9%88%D8%A7_%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9) — CC BY-SA 4.0
+- [التواصل الجغرافي](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84_%D8%A7%D9%84%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A) — CC BY-SA 4.0
+- [بر رئيسي](https://ar.wikipedia.org/wiki/%D8%A8%D8%B1_%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A) — CC BY-SA 4.0
+- [توزيع الرتبة والحجم](https://ar.wikipedia.org/wiki/%D8%AA%D9%88%D8%B2%D9%8A%D8%B9_%D8%A7%D9%84%D8%B1%D8%AA%D8%A8%D8%A9_%D9%88%D8%A7%D9%84%D8%AD%D8%AC%D9%85) — CC BY-SA 4.0
+- [آنا كاترونا](https://ar.wikipedia.org/wiki/%D8%A2%D9%86%D8%A7_%D9%83%D8%A7%D8%AA%D8%B1%D9%88%D9%86%D8%A7) — CC BY-SA 4.0
+- [الشكل الحقيقي (الطاوية)](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D8%A7%D9%84%D8%AD%D9%82%D9%8A%D9%82%D9%8A_%28%D8%A7%D9%84%D8%B7%D8%A7%D9%88%D9%8A%D8%A9%29) — CC BY-SA 4.0
+- [تفسيرات ميكانيكا الكم](https://ar.wikipedia.org/wiki/%D8%AA%D9%81%D8%B3%D9%8A%D8%B1%D8%A7%D8%AA_%D9%85%D9%8A%D9%83%D8%A7%D9%86%D9%8A%D9%83%D8%A7_%D8%A7%D9%84%D9%83%D9%85) — CC BY-SA 4.0
+- [جغرافيا حيوية](https://ar.wikipedia.org/wiki/%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A7_%D8%AD%D9%8A%D9%88%D9%8A%D8%A9) — CC BY-SA 4.0
+- [آي باث](https://ar.wikipedia.org/wiki/%D8%A2%D9%8A_%D8%A8%D8%A7%D8%AB) — CC BY-SA 4.0
+- [اتحاد اقتصادي ونقدي](https://ar.wikipedia.org/wiki/%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF_%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A_%D9%88%D9%86%D9%82%D8%AF%D9%8A) — CC BY-SA 4.0
+- [المغرب وصندوق النقد الدولي](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8_%D9%88%D8%B5%D9%86%D8%AF%D9%88%D9%82_%D8%A7%D9%84%D9%86%D9%82%D8%AF_%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A) — CC BY-SA 4.0
+- [سيطرة مالية](https://ar.wikipedia.org/wiki/%D8%B3%D9%8A%D8%B7%D8%B1%D8%A9_%D9%85%D8%A7%D9%84%D9%8A%D8%A9) — CC BY-SA 4.0
+- [آفة موريل لافالي](https://ar.wikipedia.org/wiki/%D8%A2%D9%81%D8%A9_%D9%85%D9%88%D8%B1%D9%8A%D9%84_%D9%84%D8%A7%D9%81%D8%A7%D9%84%D9%8A) — CC BY-SA 4.0
+- [أسبروزين](https://ar.wikipedia.org/wiki/%D8%A3%D8%B3%D8%A8%D8%B1%D9%88%D8%B2%D9%8A%D9%86) — CC BY-SA 4.0
+- [التغيرات في الدم أثناء الحمل](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AA%D8%BA%D9%8A%D8%B1%D8%A7%D8%AA_%D9%81%D9%8A_%D8%A7%D9%84%D8%AF%D9%85_%D8%A3%D8%AB%D9%86%D8%A7%D8%A1_%D8%A7%D9%84%D8%AD%D9%85%D9%84) — CC BY-SA 4.0
+- [امتحان الترخيص الطبي لهونغ كونغ](https://ar.wikipedia.org/wiki/%D8%A7%D9%85%D8%AA%D8%AD%D8%A7%D9%86_%D8%A7%D9%84%D8%AA%D8%B1%D8%AE%D9%8A%D8%B5_%D8%A7%D9%84%D8%B7%D8%A8%D9%8A_%D9%84%D9%87%D9%88%D9%86%D8%BA_%D9%83%D9%88%D9%86%D8%BA) — CC BY-SA 4.0
+- [الزراعة الهيدروجيلية](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D8%A9_%D8%A7%D9%84%D9%87%D9%8A%D8%AF%D8%B1%D9%88%D8%AC%D9%8A%D9%84%D9%8A%D8%A9) — CC BY-SA 4.0
+- [آبار انجاصة](https://ar.wikipedia.org/wiki/%D8%A2%D8%A8%D8%A7%D8%B1_%D8%A7%D9%86%D8%AC%D8%A7%D8%B5%D8%A9) — CC BY-SA 4.0
+- [إرشاد زراعي](https://ar.wikipedia.org/wiki/%D8%A5%D8%B1%D8%B4%D8%A7%D8%AF_%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A) — CC BY-SA 4.0
+- [اختبار النسل](https://ar.wikipedia.org/wiki/%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1_%D8%A7%D9%84%D9%86%D8%B3%D9%84) — CC BY-SA 4.0
+- [الري بالأنسجة تحت السطحية](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B1%D9%8A_%D8%A8%D8%A7%D9%84%D8%A3%D9%86%D8%B3%D8%AC%D8%A9_%D8%AA%D8%AD%D8%AA_%D8%A7%D9%84%D8%B3%D8%B7%D8%AD%D9%8A%D8%A9) — CC BY-SA 4.0
+- [الكيمياء الفيزيائية للأغذية](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A1_%D8%A7%D9%84%D9%81%D9%8A%D8%B2%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9_%D9%84%D9%84%D8%A3%D8%BA%D8%B0%D9%8A%D8%A9) — CC BY-SA 4.0
+- [أيمن جواد التميمي](https://ar.wikipedia.org/wiki/%D8%A3%D9%8A%D9%85%D9%86_%D8%AC%D9%88%D8%A7%D8%AF_%D8%A7%D9%84%D8%AA%D9%85%D9%8A%D9%85%D9%8A) — CC BY-SA 4.0
+- [الأبرشية الكاثوليكية المارونية في دمشق](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A3%D8%A8%D8%B1%D8%B4%D9%8A%D8%A9_%D8%A7%D9%84%D9%83%D8%A7%D8%AB%D9%88%D9%84%D9%8A%D9%83%D9%8A%D8%A9_%D8%A7%D9%84%D9%85%D8%A7%D8%B1%D9%88%D9%86%D9%8A%D8%A9_%D9%81%D9%8A_%D8%AF%D9%85%D8%B4%D9%82) — CC BY-SA 4.0
+- [الخلية الإرهابية بجامعة العلوم الطبية والتكنولوجيا](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%A9_%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A%D8%A9_%D8%A8%D8%AC%D8%A7%D9%85%D8%B9%D8%A9_%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85_%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7) — CC BY-SA 4.0
+- [الندوة الوطنية للترجمة](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%86%D8%AF%D9%88%D8%A9_%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9_%D9%84%D9%84%D8%AA%D8%B1%D8%AC%D9%85%D8%A9) — CC BY-SA 4.0
+- [الوقف في سوريا](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%88%D9%82%D9%81_%D9%81%D9%8A_%D8%B3%D9%88%D8%B1%D9%8A%D8%A7) — CC BY-SA 4.0
+- [سوريا](https://ar.wikipedia.org/wiki/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7) — CC BY-SA 4.0
+- [زلزال أنطاكية 526](https://ar.wikipedia.org/wiki/%D8%B2%D9%84%D8%B2%D8%A7%D9%84_%D8%A3%D9%86%D8%B7%D8%A7%D9%83%D9%8A%D8%A9_526) — CC BY-SA 4.0
+- [ساحة السبع بحرات](https://ar.wikipedia.org/wiki/%D8%B3%D8%A7%D8%AD%D8%A9_%D8%A7%D9%84%D8%B3%D8%A8%D8%B9_%D8%A8%D8%AD%D8%B1%D8%A7%D8%AA) — CC BY-SA 4.0
+- [سوريا الأخمينية](https://ar.wikipedia.org/wiki/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7_%D8%A7%D9%84%D8%A3%D8%AE%D9%85%D9%8A%D9%86%D9%8A%D8%A9) — CC BY-SA 4.0
+- [سوريا في ألعاب البحر الأبيض المتوسط](https://ar.wikipedia.org/wiki/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7_%D9%81%D9%8A_%D8%A3%D9%84%D8%B9%D8%A7%D8%A8_%D8%A7%D9%84%D8%A8%D8%AD%D8%B1_%D8%A7%D9%84%D8%A3%D8%A8%D9%8A%D8%B6_%D8%A7%D9%84%D9%85%D8%AA%D9%88%D8%B3%D8%B7) — CC BY-SA 4.0
+- [أرمناز (إدلب)](https://ar.wikipedia.org/wiki/%D8%A3%D8%B1%D9%85%D9%86%D8%A7%D8%B2_%28%D8%A5%D8%AF%D9%84%D8%A8%29) — CC BY-SA 4.0
+- [أشرفية صحنايا](https://ar.wikipedia.org/wiki/%D8%A3%D8%B4%D8%B1%D9%81%D9%8A%D8%A9_%D8%B5%D8%AD%D9%86%D8%A7%D9%8A%D8%A7) — CC BY-SA 4.0
+- [إدلب](https://ar.wikipedia.org/wiki/%D8%A5%D8%AF%D9%84%D8%A8) — CC BY-SA 4.0
+- [الأتارب](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A3%D8%AA%D8%A7%D8%B1%D8%A8) — CC BY-SA 4.0
+- [التل (ريف دمشق)](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AA%D9%84_%28%D8%B1%D9%8A%D9%81_%D8%AF%D9%85%D8%B4%D9%82%29) — CC BY-SA 4.0
+- [الجوادية (الحسكة)](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AC%D9%88%D8%A7%D8%AF%D9%8A%D8%A9_%28%D8%A7%D9%84%D8%AD%D8%B3%D9%83%D8%A9%29) — CC BY-SA 4.0
+- [الحارة](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AD%D8%A7%D8%B1%D8%A9) — CC BY-SA 4.0
+- [الحراك](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D9%83) — CC BY-SA 4.0
+- [الحسكة](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AD%D8%B3%D9%83%D8%A9) — CC BY-SA 4.0
+- [الحصن (سوريا)](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AD%D8%B5%D9%86_%28%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%29) — CC BY-SA 4.0
+- [الحفة](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AD%D9%81%D8%A9) — CC BY-SA 4.0
+- [الدانا](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AF%D8%A7%D9%86%D8%A7) — CC BY-SA 4.0
+- [الدرباسية](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AF%D8%B1%D8%A8%D8%A7%D8%B3%D9%8A%D8%A9) — CC BY-SA 4.0
+- [الرحيبة (ريف دمشق)](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B1%D8%AD%D9%8A%D8%A8%D8%A9_%28%D8%B1%D9%8A%D9%81_%D8%AF%D9%85%D8%B4%D9%82%29) — CC BY-SA 4.0
+- [الرقة](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B1%D9%82%D8%A9) — CC BY-SA 4.0
+- [السلمية (سوريا)](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B3%D9%84%D9%85%D9%8A%D8%A9_%28%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%29) — CC BY-SA 4.0
+- [السويداء](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1) — CC BY-SA 4.0
+- [السيدة زينب (ريف دمشق)](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9_%D8%B2%D9%8A%D9%86%D8%A8_%28%D8%B1%D9%8A%D9%81_%D8%AF%D9%85%D8%B4%D9%82%29) — CC BY-SA 4.0
+- [الشجرة (درعا)](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B4%D8%AC%D8%B1%D8%A9_%28%D8%AF%D8%B1%D8%B9%D8%A7%29) — CC BY-SA 4.0
+- [الشدادي](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B4%D8%AF%D8%A7%D8%AF%D9%8A) — CC BY-SA 4.0
+- [الشيخ مسكين](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B4%D9%8A%D8%AE_%D9%85%D8%B3%D9%83%D9%8A%D9%86) — CC BY-SA 4.0
+- [الغارية الشرقية](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%BA%D8%A7%D8%B1%D9%8A%D8%A9_%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9) — CC BY-SA 4.0
+- [الغارية الغربية](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%BA%D8%A7%D8%B1%D9%8A%D8%A9_%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9) — CC BY-SA 4.0
+- [القامشلي](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%82%D8%A7%D9%85%D8%B4%D9%84%D9%8A) — CC BY-SA 4.0
+- [القطيفة](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%82%D8%B7%D9%8A%D9%81%D8%A9) — CC BY-SA 4.0
+- [القطيلبية](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%82%D8%B7%D9%8A%D9%84%D8%A8%D9%8A%D8%A9) — CC BY-SA 4.0
+- [المالكية (الحسكة)](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%83%D9%8A%D8%A9_%28%D8%A7%D9%84%D8%AD%D8%B3%D9%83%D8%A9%29) — CC BY-SA 4.0
+- [آشور](https://ar.wikipedia.org/wiki/%D8%A2%D8%B4%D9%88%D8%B1) — CC BY-SA 4.0
+- [الهامة](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%87%D8%A7%D9%85%D8%A9) — CC BY-SA 4.0
+- [الهول](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%87%D9%88%D9%84) — CC BY-SA 4.0
+- [اليادودة](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%8A%D8%A7%D8%AF%D9%88%D8%AF%D8%A9) — CC BY-SA 4.0
+- [بانياس](https://ar.wikipedia.org/wiki/%D8%A8%D8%A7%D9%86%D9%8A%D8%A7%D8%B3) — CC BY-SA 4.0
+- [تاريخ سوريا](https://ar.wikipedia.org/wiki/%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE_%D8%B3%D9%88%D8%B1%D9%8A%D8%A7) — CC BY-SA 4.0
+- [أسماء الشام](https://ar.wikipedia.org/wiki/%D8%A3%D8%B3%D9%85%D8%A7%D8%A1_%D8%A7%D9%84%D8%B4%D8%A7%D9%85) — CC BY-SA 4.0
+- [أسماء سوريا](https://ar.wikipedia.org/wiki/%D8%A3%D8%B3%D9%85%D8%A7%D8%A1_%D8%B3%D9%88%D8%B1%D9%8A%D8%A7) — CC BY-SA 4.0
+- [أمفورة](https://ar.wikipedia.org/wiki/%D8%A3%D9%85%D9%81%D9%88%D8%B1%D8%A9) — CC BY-SA 4.0
+- [إبراهيم حلمي الغوري](https://ar.wikipedia.org/wiki/%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85_%D8%AD%D9%84%D9%85%D9%8A_%D8%A7%D9%84%D8%BA%D9%88%D8%B1%D9%8A) — CC BY-SA 4.0
+- [إدارة أراضي العدو المحتلة](https://ar.wikipedia.org/wiki/%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9_%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A_%D8%A7%D9%84%D8%B9%D8%AF%D9%88_%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%84%D8%A9) — CC BY-SA 4.0
+- [إعلان دمشق للتغيير الوطني الديمقراطي](https://ar.wikipedia.org/wiki/%D8%A5%D8%B9%D9%84%D8%A7%D9%86_%D8%AF%D9%85%D8%B4%D9%82_%D9%84%D9%84%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1_%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A_%D8%A7%D9%84%D8%AF%D9%8A%D9%85%D9%82%D8%B1%D8%A7%D8%B7%D9%8A) — CC BY-SA 4.0
+- [إيالة طرابلس الشام](https://ar.wikipedia.org/wiki/%D8%A5%D9%8A%D8%A7%D9%84%D8%A9_%D8%B7%D8%B1%D8%A7%D8%A8%D9%84%D8%B3_%D8%A7%D9%84%D8%B4%D8%A7%D9%85) — CC BY-SA 4.0
+- [اتحاد الجمهوريات العربية](https://ar.wikipedia.org/wiki/%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF_%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9) — CC BY-SA 4.0
+- [اتفاق بوليه–نيوكومب](https://ar.wikipedia.org/wiki/%D8%A7%D8%AA%D9%81%D8%A7%D9%82_%D8%A8%D9%88%D9%84%D9%8A%D9%87%E2%80%93%D9%86%D9%8A%D9%88%D9%83%D9%88%D9%85%D8%A8) — CC BY-SA 4.0
+- [احتلال الزور](https://ar.wikipedia.org/wiki/%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84_%D8%A7%D9%84%D8%B2%D9%88%D8%B1) — CC BY-SA 4.0
+- [الإسكندرونة](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%88%D9%86%D8%A9) — CC BY-SA 4.0
+- [الإمبراطورية الحيثية](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A5%D9%85%D8%A8%D8%B1%D8%A7%D8%B7%D9%88%D8%B1%D9%8A%D8%A9_%D8%A7%D9%84%D8%AD%D9%8A%D8%AB%D9%8A%D8%A9) — CC BY-SA 4.0
+- [البعثة الصفراء](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A8%D8%B9%D8%AB%D8%A9_%D8%A7%D9%84%D8%B5%D9%81%D8%B1%D8%A7%D8%A1) — CC BY-SA 4.0
+- [التحصينات الدفاعية في جنوبي بلاد الشام خلال العصر البرونزي المبكر](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AA%D8%AD%D8%B5%D9%8A%D9%86%D8%A7%D8%AA_%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9%D9%8A%D8%A9_%D9%81%D9%8A_%D8%AC%D9%86%D9%88%D8%A8%D9%8A_%D8%A8%D9%84%D8%A7%D8%AF_%D8%A7%D9%84%D8%B4%D8%A7%D9%85_%D8%AE%D9%84%D8%A7%D9%84_%D8%A7%D9%84%D8%B9%D8%B5%D8%B1_%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D9%86%D8%B2%D9%8A_%D8%A7%D9%84%D9%85%D8%A8%D9%83%D8%B1) — CC BY-SA 4.0
+- [الثورة العامية في جبل حوران](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D9%8A%D8%A9_%D9%81%D9%8A_%D8%AC%D8%A8%D9%84_%D8%AD%D9%88%D8%B1%D8%A7%D9%86) — CC BY-SA 4.0
+- [الجبهة السورية (حرب أكتوبر)](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AC%D8%A8%D9%87%D8%A9_%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9_%28%D8%AD%D8%B1%D8%A8_%D8%A3%D9%83%D8%AA%D9%88%D8%A8%D8%B1%29) — CC BY-SA 4.0
+- [الجمعية التأسيسية السورية 1928](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D9%8A%D8%A9_%D8%A7%D9%84%D8%AA%D8%A3%D8%B3%D9%8A%D8%B3%D9%8A%D8%A9_%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9_1928) — CC BY-SA 4.0
+- [الجمعية العلمية السورية](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D9%8A%D8%A9_%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A%D8%A9_%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9) — CC BY-SA 4.0
+- [الجمهورية العربية المتحدة](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9_%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9) — CC BY-SA 4.0
+- [الحملات العسكرية في عهد الخليفة عمر](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AD%D9%85%D9%84%D8%A7%D8%AA_%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9_%D9%81%D9%8A_%D8%B9%D9%87%D8%AF_%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D9%81%D8%A9_%D8%B9%D9%85%D8%B1) — CC BY-SA 4.0
+- [الخلافة الراشدة](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AE%D9%84%D8%A7%D9%81%D8%A9_%D8%A7%D9%84%D8%B1%D8%A7%D8%B4%D8%AF%D8%A9) — CC BY-SA 4.0
+- [الدول العربية المتحدة](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AF%D9%88%D9%84_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9_%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9) — CC BY-SA 4.0
+- [الدولة الإسماعيلية النزارية](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9_%D8%A7%D9%84%D8%A5%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84%D9%8A%D8%A9_%D8%A7%D9%84%D9%86%D8%B2%D8%A7%D8%B1%D9%8A%D8%A9) — CC BY-SA 4.0
+- [الدولة المروانية](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9_%D8%A7%D9%84%D9%85%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9) — CC BY-SA 4.0
+- [الرها (مقاطعة رومانية)](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B1%D9%87%D8%A7_%28%D9%85%D9%82%D8%A7%D8%B7%D8%B9%D8%A9_%D8%B1%D9%88%D9%85%D8%A7%D9%86%D9%8A%D8%A9%29) — CC BY-SA 4.0
+- [الشاغورة](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B4%D8%A7%D8%BA%D9%88%D8%B1%D8%A9) — CC BY-SA 4.0
+- [الصالح إسماعيل](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD_%D8%A5%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84) — CC BY-SA 4.0
+- [الطريق الملوكي](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B7%D8%B1%D9%8A%D9%82_%D8%A7%D9%84%D9%85%D9%84%D9%88%D9%83%D9%8A) — CC BY-SA 4.0
+- [أم مغد](https://ar.wikipedia.org/wiki/%D8%A3%D9%85_%D9%85%D8%BA%D8%AF) — CC BY-SA 4.0
+- [الظاهر سيف الدين برقوق](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B8%D8%A7%D9%87%D8%B1_%D8%B3%D9%8A%D9%81_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D8%A8%D8%B1%D9%82%D9%88%D9%82) — CC BY-SA 4.0
+- [الظاهر غازي](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B8%D8%A7%D9%87%D8%B1_%D8%BA%D8%A7%D8%B2%D9%8A) — CC BY-SA 4.0
+- [العصر الحجري الحديث في الشرق الأدنى](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B9%D8%B5%D8%B1_%D8%A7%D9%84%D8%AD%D8%AC%D8%B1%D9%8A_%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AB_%D9%81%D9%8A_%D8%A7%D9%84%D8%B4%D8%B1%D9%82_%D8%A7%D9%84%D8%A3%D8%AF%D9%86%D9%89) — CC BY-SA 4.0
+- [الغرفة الثانية للبرلمان السوري](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%BA%D8%B1%D9%81%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9_%D9%84%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86_%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A) — CC BY-SA 4.0
+- [مستخدم:Shahed08/جزيرة بانايير](https://ar.wikipedia.org/wiki/%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%3AShahed08/%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9_%D8%A8%D8%A7%D9%86%D8%A7%D9%8A%D9%8A%D8%B1) — CC BY-SA 4.0
+- [إعادة الهيكلة الاقتصادية](https://ar.wikipedia.org/wiki/%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9_%D8%A7%D9%84%D9%87%D9%8A%D9%83%D9%84%D8%A9_%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A9) — CC BY-SA 4.0
+- [إقليم باريما وايني](https://ar.wikipedia.org/wiki/%D8%A5%D9%82%D9%84%D9%8A%D9%85_%D8%A8%D8%A7%D8%B1%D9%8A%D9%85%D8%A7_%D9%88%D8%A7%D9%8A%D9%86%D9%8A) — CC BY-SA 4.0
+- [استكشاف](https://ar.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AA%D9%83%D8%B4%D8%A7%D9%81) — CC BY-SA 4.0
+- [استهداف جغرافي](https://ar.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81_%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A) — CC BY-SA 4.0
+- [اضمحلال المسافة](https://ar.wikipedia.org/wiki/%D8%A7%D8%B6%D9%85%D8%AD%D9%84%D8%A7%D9%84_%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D9%81%D8%A9) — CC BY-SA 4.0
+- [التحليل المتساوي](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AA%D8%AD%D9%84%D9%8A%D9%84_%D8%A7%D9%84%D9%85%D8%AA%D8%B3%D8%A7%D9%88%D9%8A) — CC BY-SA 4.0
+- [التصنيف العام للنماذج](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81_%D8%A7%D9%84%D8%B9%D8%A7%D9%85_%D9%84%D9%84%D9%86%D9%85%D8%A7%D8%B0%D8%AC) — CC BY-SA 4.0
+- [الجغرافيا الخيالية](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A7_%D8%A7%D9%84%D8%AE%D9%8A%D8%A7%D9%84%D9%8A%D8%A9) — CC BY-SA 4.0
+- [الجيومورفوسيت](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AC%D9%8A%D9%88%D9%85%D9%88%D8%B1%D9%81%D9%88%D8%B3%D9%8A%D8%AA) — CC BY-SA 4.0
+- [الحكومية (ميشيل فوكو)](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D9%8A%D8%A9_%28%D9%85%D9%8A%D8%B4%D9%8A%D9%84_%D9%81%D9%88%D9%83%D9%88%29) — CC BY-SA 4.0
+- [الرواق البحري](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D9%82_%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A) — CC BY-SA 4.0
+- [المعلوماتية الجغرافية](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA%D9%8A%D8%A9_%D8%A7%D9%84%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A9) — CC BY-SA 4.0
+- [الملجأ الجليدي](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D9%84%D8%AC%D8%A3_%D8%A7%D9%84%D8%AC%D9%84%D9%8A%D8%AF%D9%8A) — CC BY-SA 4.0
+- [المواطنة المكانية](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B7%D9%86%D8%A9_%D8%A7%D9%84%D9%85%D9%83%D8%A7%D9%86%D9%8A%D8%A9) — CC BY-SA 4.0
+- [بروكس بوينت](https://ar.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D9%83%D8%B3_%D8%A8%D9%88%D9%8A%D9%86%D8%AA) — CC BY-SA 4.0
+- [بوابة فيينا](https://ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9_%D9%81%D9%8A%D9%8A%D9%86%D8%A7) — CC BY-SA 4.0
+- [بيئة قاسية](https://ar.wikipedia.org/wiki/%D8%A8%D9%8A%D8%A6%D8%A9_%D9%82%D8%A7%D8%B3%D9%8A%D8%A9) — CC BY-SA 4.0
+- [تحطم السدود](https://ar.wikipedia.org/wiki/%D8%AA%D8%AD%D8%B7%D9%85_%D8%A7%D9%84%D8%B3%D8%AF%D9%88%D8%AF) — CC BY-SA 4.0
+- [تحول نهري](https://ar.wikipedia.org/wiki/%D8%AA%D8%AD%D9%88%D9%84_%D9%86%D9%87%D8%B1%D9%8A) — CC BY-SA 4.0
+- [تدفق البحر الأبيض المتوسط](https://ar.wikipedia.org/wiki/%D8%AA%D8%AF%D9%81%D9%82_%D8%A7%D9%84%D8%A8%D8%AD%D8%B1_%D8%A7%D9%84%D8%A3%D8%A8%D9%8A%D8%B6_%D8%A7%D9%84%D9%85%D8%AA%D9%88%D8%B3%D8%B7) — CC BY-SA 4.0
+- [توجه نحو الشرق والشمال](https://ar.wikipedia.org/wiki/%D8%AA%D9%88%D8%AC%D9%87_%D9%86%D8%AD%D9%88_%D8%A7%D9%84%D8%B4%D8%B1%D9%82_%D9%88%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84) — CC BY-SA 4.0
+- [توقيت محلي](https://ar.wikipedia.org/wiki/%D8%AA%D9%88%D9%82%D9%8A%D8%AA_%D9%85%D8%AD%D9%84%D9%8A) — CC BY-SA 4.0
+- [توقيت واشنطن المتوسط](https://ar.wikipedia.org/wiki/%D8%AA%D9%88%D9%82%D9%8A%D8%AA_%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86_%D8%A7%D9%84%D9%85%D8%AA%D9%88%D8%B3%D8%B7) — CC BY-SA 4.0
+- [جغرافيا](https://ar.wikipedia.org/wiki/%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A7) — CC BY-SA 4.0
+- [جغرافيا (أدب)](https://ar.wikipedia.org/wiki/%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A7_%28%D8%A3%D8%AF%D8%A8%29) — CC BY-SA 4.0
+- [جغرافيا أوروبا](https://ar.wikipedia.org/wiki/%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A7_%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7) — CC BY-SA 4.0
+- [جغرافيا الجريمة](https://ar.wikipedia.org/wiki/%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A7_%D8%A7%D9%84%D8%AC%D8%B1%D9%8A%D9%85%D8%A9) — CC BY-SA 4.0
+- [2019 في العلوم](https://ar.wikipedia.org/wiki/2019_%D9%81%D9%8A_%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85) — CC BY-SA 4.0
+- [جغرافيا الطب](https://ar.wikipedia.org/wiki/%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A7_%D8%A7%D9%84%D8%B7%D8%A8) — CC BY-SA 4.0
+- [جغرافيا ثقافية](https://ar.wikipedia.org/wiki/%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A7_%D8%AB%D9%82%D8%A7%D9%81%D9%8A%D8%A9) — CC BY-SA 4.0
+- [جغرافيا زمانية](https://ar.wikipedia.org/wiki/%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A7_%D8%B2%D9%85%D8%A7%D9%86%D9%8A%D8%A9) — CC BY-SA 4.0
+- [جغرافيا سياحية](https://ar.wikipedia.org/wiki/%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A7_%D8%B3%D9%8A%D8%A7%D8%AD%D9%8A%D8%A9) — CC BY-SA 4.0
+- [علم](https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%85) — CC BY-SA 4.0
+- [إعادة تدوير القطن](https://ar.wikipedia.org/wiki/%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9_%D8%AA%D8%AF%D9%88%D9%8A%D8%B1_%D8%A7%D9%84%D9%82%D8%B7%D9%86) — CC BY-SA 4.0
+- [اختبار الفوسفاتاز القلوية للكريات البيضاء](https://ar.wikipedia.org/wiki/%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1_%D8%A7%D9%84%D9%81%D9%88%D8%B3%D9%81%D8%A7%D8%AA%D8%A7%D8%B2_%D8%A7%D9%84%D9%82%D9%84%D9%88%D9%8A%D8%A9_%D9%84%D9%84%D9%83%D8%B1%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D8%A8%D9%8A%D8%B6%D8%A7%D8%A1) — CC BY-SA 4.0
+- [الرقابة على تيك توك](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B1%D9%82%D8%A7%D8%A8%D8%A9_%D8%B9%D9%84%D9%89_%D8%AA%D9%8A%D9%83_%D8%AA%D9%88%D9%83) — CC BY-SA 4.0
+- [الزمن الخطي](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B2%D9%85%D9%86_%D8%A7%D9%84%D8%AE%D8%B7%D9%8A) — CC BY-SA 4.0
+- [تصميم تجسيدي](https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%85%D9%8A%D9%85_%D8%AA%D8%AC%D8%B3%D9%8A%D8%AF%D9%8A) — CC BY-SA 4.0
+- [المذهب الطبيعي البيولوجي](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%B0%D9%87%D8%A8_%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A_%D8%A7%D9%84%D8%A8%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A) — CC BY-SA 4.0
+- [المنهج المقارن](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D9%86%D9%87%D8%AC_%D8%A7%D9%84%D9%85%D9%82%D8%A7%D8%B1%D9%86) — CC BY-SA 4.0
+- [النفايات القابلة للتحلل الحيوي](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%86%D9%81%D8%A7%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D9%82%D8%A7%D8%A8%D9%84%D8%A9_%D9%84%D9%84%D8%AA%D8%AD%D9%84%D9%84_%D8%A7%D9%84%D8%AD%D9%8A%D9%88%D9%8A) — CC BY-SA 4.0
+- [النموذج العالمي للزلازل](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%86%D9%85%D9%88%D8%B0%D8%AC_%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A_%D9%84%D9%84%D8%B2%D9%84%D8%A7%D8%B2%D9%84) — CC BY-SA 4.0
+- [اولمويدس ديرميستويدس](https://ar.wikipedia.org/wiki/%D8%A7%D9%88%D9%84%D9%85%D9%88%D9%8A%D8%AF%D8%B3_%D8%AF%D9%8A%D8%B1%D9%85%D9%8A%D8%B3%D8%AA%D9%88%D9%8A%D8%AF%D8%B3) — CC BY-SA 4.0
+- [تأثير باتش](https://ar.wikipedia.org/wiki/%D8%AA%D8%A3%D8%AB%D9%8A%D8%B1_%D8%A8%D8%A7%D8%AA%D8%B4) — CC BY-SA 4.0
+- [تفسير](https://ar.wikipedia.org/wiki/%D8%AA%D9%81%D8%B3%D9%8A%D8%B1) — CC BY-SA 4.0
+- [تفكير نقدي](https://ar.wikipedia.org/wiki/%D8%AA%D9%81%D9%83%D9%8A%D8%B1_%D9%86%D9%82%D8%AF%D9%8A) — CC BY-SA 4.0
+- [توقع](https://ar.wikipedia.org/wiki/%D8%AA%D9%88%D9%82%D8%B9) — CC BY-SA 4.0
+- [توليد الموجات الزلزالية](https://ar.wikipedia.org/wiki/%D8%AA%D9%88%D9%84%D9%8A%D8%AF_%D8%A7%D9%84%D9%85%D9%88%D8%AC%D8%A7%D8%AA_%D8%A7%D9%84%D8%B2%D9%84%D8%B2%D8%A7%D9%84%D9%8A%D8%A9) — CC BY-SA 4.0
+- [جائزة الأوسكار الشرفية](https://ar.wikipedia.org/wiki/%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9_%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D9%83%D8%A7%D8%B1_%D8%A7%D9%84%D8%B4%D8%B1%D9%81%D9%8A%D8%A9) — CC BY-SA 4.0
+- [جائزة التقنية الأكاديمية والعلمية](https://ar.wikipedia.org/wiki/%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9_%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A9_%D8%A7%D9%84%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D9%85%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A%D8%A9) — CC BY-SA 4.0
+- [جائزة روجر ريفيل](https://ar.wikipedia.org/wiki/%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9_%D8%B1%D9%88%D8%AC%D8%B1_%D8%B1%D9%8A%D9%81%D9%8A%D9%84) — CC BY-SA 4.0
+- [جديده إسلر](https://ar.wikipedia.org/wiki/%D8%AC%D8%AF%D9%8A%D8%AF%D9%87_%D8%A5%D8%B3%D9%84%D8%B1) — CC BY-SA 4.0
+- [جوسان](https://ar.wikipedia.org/wiki/%D8%AC%D9%88%D8%B3%D8%A7%D9%86) — CC BY-SA 4.0
+- [حافة (طرف)](https://ar.wikipedia.org/wiki/%D8%AD%D8%A7%D9%81%D8%A9_%28%D8%B7%D8%B1%D9%81%29) — CC BY-SA 4.0
+- [حبوب مجهولة](https://ar.wikipedia.org/wiki/%D8%AD%D8%A8%D9%88%D8%A8_%D9%85%D8%AC%D9%87%D9%88%D9%84%D8%A9) — CC BY-SA 4.0
+- [دعم اتخاذ قرار العلاج](https://ar.wikipedia.org/wiki/%D8%AF%D8%B9%D9%85_%D8%A7%D8%AA%D8%AE%D8%A7%D8%B0_%D9%82%D8%B1%D8%A7%D8%B1_%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D8%AC) — CC BY-SA 4.0
+- [رعاية متكاملة](https://ar.wikipedia.org/wiki/%D8%B1%D8%B9%D8%A7%D9%8A%D8%A9_%D9%85%D8%AA%D9%83%D8%A7%D9%85%D9%84%D8%A9) — CC BY-SA 4.0
+- [سوء استخدام العلم](https://ar.wikipedia.org/wiki/%D8%B3%D9%88%D8%A1_%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85_%D8%A7%D9%84%D8%B9%D9%84%D9%85) — CC BY-SA 4.0
+- [إدارة المخاطر المالية](https://ar.wikipedia.org/wiki/%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9_%D8%A7%D9%84%D9%85%D8%AE%D8%A7%D8%B7%D8%B1_%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9) — CC BY-SA 4.0
+- [إشارة السعر](https://ar.wikipedia.org/wiki/%D8%A5%D8%B4%D8%A7%D8%B1%D8%A9_%D8%A7%D9%84%D8%B3%D8%B9%D8%B1) — CC BY-SA 4.0
+- [اقتصاد](https://ar.wikipedia.org/wiki/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF) — CC BY-SA 4.0
+- [عقل (منطق)](https://ar.wikipedia.org/wiki/%D8%B9%D9%82%D9%84_%28%D9%85%D9%86%D8%B7%D9%82%29) — CC BY-SA 4.0
+- [علم الآلات الروحانية](https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D8%A2%D9%84%D8%A7%D8%AA_%D8%A7%D9%84%D8%B1%D9%88%D8%AD%D8%A7%D9%86%D9%8A%D8%A9) — CC BY-SA 4.0
+- [علم الاختلاج](https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D8%AC) — CC BY-SA 4.0
+- [اتفاقيات بازل](https://ar.wikipedia.org/wiki/%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A%D8%A7%D8%AA_%D8%A8%D8%A7%D8%B2%D9%84) — CC BY-SA 4.0
+- [استثمار البلاتين](https://ar.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1_%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AA%D9%8A%D9%86) — CC BY-SA 4.0
+- [استراتيجية الاستثمار](https://ar.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9_%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1) — CC BY-SA 4.0
+- [اقتصاد أنغويلا](https://ar.wikipedia.org/wiki/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF_%D8%A3%D9%86%D8%BA%D9%88%D9%8A%D9%84%D8%A7) — CC BY-SA 4.0
+- [اقتصاد حملي](https://ar.wikipedia.org/wiki/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF_%D8%AD%D9%85%D9%84%D9%8A) — CC BY-SA 4.0
+- [اقتصاد قبرص الشمالية](https://ar.wikipedia.org/wiki/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF_%D9%82%D8%A8%D8%B1%D8%B5_%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%8A%D8%A9) — CC BY-SA 4.0
+- [الأنظمة الاقتصادية الأربعة](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A3%D9%86%D8%B8%D9%85%D8%A9_%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A9_%D8%A7%D9%84%D8%A3%D8%B1%D8%A8%D8%B9%D8%A9) — CC BY-SA 4.0
+- [الائتمان المتجدد](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A7%D8%A6%D8%AA%D9%85%D8%A7%D9%86_%D8%A7%D9%84%D9%85%D8%AA%D8%AC%D8%AF%D8%AF) — CC BY-SA 4.0
+- [الاقتصاد العالمي](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF_%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A) — CC BY-SA 4.0
+- [الاقتصادوية](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%88%D9%8A%D8%A9) — CC BY-SA 4.0
+- [البيانات الاقتصادية](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA_%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A9) — CC BY-SA 4.0
+- [التوأمان السماويان (سومنر وكونليف)](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AA%D9%88%D8%A3%D9%85%D8%A7%D9%86_%D8%A7%D9%84%D8%B3%D9%85%D8%A7%D9%88%D9%8A%D8%A7%D9%86_%28%D8%B3%D9%88%D9%85%D9%86%D8%B1_%D9%88%D9%83%D9%88%D9%86%D9%84%D9%8A%D9%81%29) — CC BY-SA 4.0
+- [التوريد المستدام](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AA%D9%88%D8%B1%D9%8A%D8%AF_%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AF%D8%A7%D9%85) — CC BY-SA 4.0
+- [الصناعات المعرفية](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D9%81%D9%8A%D8%A9) — CC BY-SA 4.0
+- [المخبر الاقتصادي](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%AE%D8%A8%D8%B1_%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A) — CC BY-SA 4.0
+- [انخفاض قيمة الأصول](https://ar.wikipedia.org/wiki/%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6_%D9%82%D9%8A%D9%85%D8%A9_%D8%A7%D9%84%D8%A3%D8%B5%D9%88%D9%84) — CC BY-SA 4.0
+- [بازل 2](https://ar.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B2%D9%84_2) — CC BY-SA 4.0
+- [بحثا عن التميز](https://ar.wikipedia.org/wiki/%D8%A8%D8%AD%D8%AB%D8%A7_%D8%B9%D9%86_%D8%A7%D9%84%D8%AA%D9%85%D9%8A%D8%B2) — CC BY-SA 4.0
+- [بورصة نيبال](https://ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%B1%D8%B5%D8%A9_%D9%86%D9%8A%D8%A8%D8%A7%D9%84) — CC BY-SA 4.0
+- [تفاوت المعلومات](https://ar.wikipedia.org/wiki/%D8%AA%D9%81%D8%A7%D9%88%D8%AA_%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA) — CC BY-SA 4.0
+- [رأس المال الحسابي](https://ar.wikipedia.org/wiki/%D8%B1%D8%A3%D8%B3_%D8%A7%D9%84%D9%85%D8%A7%D9%84_%D8%A7%D9%84%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A) — CC BY-SA 4.0
+- [رأس المال الحقوقي](https://ar.wikipedia.org/wiki/%D8%B1%D8%A3%D8%B3_%D8%A7%D9%84%D9%85%D8%A7%D9%84_%D8%A7%D9%84%D8%AD%D9%82%D9%88%D9%82%D9%8A) — CC BY-SA 4.0
+- [سعر الوحدة](https://ar.wikipedia.org/wiki/%D8%B3%D8%B9%D8%B1_%D8%A7%D9%84%D9%88%D8%AD%D8%AF%D8%A9) — CC BY-SA 4.0
+- [صناعات المعرفة](https://ar.wikipedia.org/wiki/%D8%B5%D9%86%D8%A7%D8%B9%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D9%81%D8%A9) — CC BY-SA 4.0
+- [طبقة عاملة](https://ar.wikipedia.org/wiki/%D8%B7%D8%A8%D9%82%D8%A9_%D8%B9%D8%A7%D9%85%D9%84%D8%A9) — CC BY-SA 4.0
+- [فرضية السوق التكيفية](https://ar.wikipedia.org/wiki/%D9%81%D8%B1%D8%B6%D9%8A%D8%A9_%D8%A7%D9%84%D8%B3%D9%88%D9%82_%D8%A7%D9%84%D8%AA%D9%83%D9%8A%D9%81%D9%8A%D8%A9) — CC BY-SA 4.0
+- [فلسفة وسياسة واقتصاد](https://ar.wikipedia.org/wiki/%D9%81%D9%84%D8%B3%D9%81%D8%A9_%D9%88%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9_%D9%88%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF) — CC BY-SA 4.0
+- [فوريورية](https://ar.wikipedia.org/wiki/%D9%81%D9%88%D8%B1%D9%8A%D9%88%D8%B1%D9%8A%D8%A9) — CC BY-SA 4.0
+- [قانون فيردورن](https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D9%86%D9%88%D9%86_%D9%81%D9%8A%D8%B1%D8%AF%D9%88%D8%B1%D9%86) — CC BY-SA 4.0
+- [أربطة صناعية](https://ar.wikipedia.org/wiki/%D8%A3%D8%B1%D8%A8%D8%B7%D8%A9_%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%A9) — CC BY-SA 4.0
+- [جسم غريب في الأذن](https://ar.wikipedia.org/wiki/%D8%AC%D8%B3%D9%85_%D8%BA%D8%B1%D9%8A%D8%A8_%D9%81%D9%8A_%D8%A7%D9%84%D8%A3%D8%B0%D9%86) — CC BY-SA 4.0
+- [طب](https://ar.wikipedia.org/wiki/%D8%B7%D8%A8) — CC BY-SA 4.0
+- [قطب أعمال](https://ar.wikipedia.org/wiki/%D9%82%D8%B7%D8%A8_%D8%A3%D8%B9%D9%85%D8%A7%D9%84) — CC BY-SA 4.0
+- [كرات البذور](https://ar.wikipedia.org/wiki/%D9%83%D8%B1%D8%A7%D8%AA_%D8%A7%D9%84%D8%A8%D8%B0%D9%88%D8%B1) — CC BY-SA 4.0
+- [مؤشر سعر إنفاق الاستهلاك الشخصي](https://ar.wikipedia.org/wiki/%D9%85%D8%A4%D8%B4%D8%B1_%D8%B3%D8%B9%D8%B1_%D8%A5%D9%86%D9%81%D8%A7%D9%82_%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%87%D9%84%D8%A7%D9%83_%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A) — CC BY-SA 4.0
+- [مستخدم:Hussein Mussa Muafa](https://ar.wikipedia.org/wiki/%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%3AHussein_Mussa_Muafa) — CC BY-SA 4.0
+- [أغار شوكلاتي](https://ar.wikipedia.org/wiki/%D8%A3%D8%BA%D8%A7%D8%B1_%D8%B4%D9%88%D9%83%D9%84%D8%A7%D8%AA%D9%8A) — CC BY-SA 4.0
+- [إفتراضات كوخ الجزيئية](https://ar.wikipedia.org/wiki/%D8%A5%D9%81%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA_%D9%83%D9%88%D8%AE_%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%A6%D9%8A%D8%A9) — CC BY-SA 4.0
+- [إكسون سام](https://ar.wikipedia.org/wiki/%D8%A5%D9%83%D8%B3%D9%88%D9%86_%D8%B3%D8%A7%D9%85) — CC BY-SA 4.0
+- [استئصال البروستات بالروبوت](https://ar.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AA%D8%A6%D8%B5%D8%A7%D9%84_%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D8%B3%D8%AA%D8%A7%D8%AA_%D8%A8%D8%A7%D9%84%D8%B1%D9%88%D8%A8%D9%88%D8%AA) — CC BY-SA 4.0
+- [اضطراب النمو العصبي المرتبط بجين KDM5C](https://ar.wikipedia.org/wiki/%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%A8_%D8%A7%D9%84%D9%86%D9%85%D9%88_%D8%A7%D9%84%D8%B9%D8%B5%D8%A8%D9%8A_%D8%A7%D9%84%D9%85%D8%B1%D8%AA%D8%A8%D8%B7_%D8%A8%D8%AC%D9%8A%D9%86_KDM5C) — CC BY-SA 4.0
+- [الإيقاع البيولوجي](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A5%D9%8A%D9%82%D8%A7%D8%B9_%D8%A7%D9%84%D8%A8%D9%8A%D9%88%D9%84%D9%88%D8%AC%D9%8A) — CC BY-SA 4.0
+- [البيئة الدقيقة لنخاع العظم في سرطان الدم](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D8%A9_%D8%A7%D9%84%D8%AF%D9%82%D9%8A%D9%82%D8%A9_%D9%84%D9%86%D8%AE%D8%A7%D8%B9_%D8%A7%D9%84%D8%B9%D8%B8%D9%85_%D9%81%D9%8A_%D8%B3%D8%B1%D8%B7%D8%A7%D9%86_%D8%A7%D9%84%D8%AF%D9%85) — CC BY-SA 4.0
+- [التصوير بالموجات فوق الصوتية عند نقطة الرعاية](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AA%D8%B5%D9%88%D9%8A%D8%B1_%D8%A8%D8%A7%D9%84%D9%85%D9%88%D8%AC%D8%A7%D8%AA_%D9%81%D9%88%D9%82_%D8%A7%D9%84%D8%B5%D9%88%D8%AA%D9%8A%D8%A9_%D8%B9%D9%86%D8%AF_%D9%86%D9%82%D8%B7%D8%A9_%D8%A7%D9%84%D8%B1%D8%B9%D8%A7%D9%8A%D8%A9) — CC BY-SA 4.0
+- [التهاب العصب الدهليزي](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AA%D9%87%D8%A7%D8%A8_%D8%A7%D9%84%D8%B9%D8%B5%D8%A8_%D8%A7%D9%84%D8%AF%D9%87%D9%84%D9%8A%D8%B2%D9%8A) — CC BY-SA 4.0
+- [التوصيل المغناطيسي للأدوية](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AA%D9%88%D8%B5%D9%8A%D9%84_%D8%A7%D9%84%D9%85%D8%BA%D9%86%D8%A7%D8%B7%D9%8A%D8%B3%D9%8A_%D9%84%D9%84%D8%A3%D8%AF%D9%88%D9%8A%D8%A9) — CC BY-SA 4.0
+- [الرعاية التأهيلية](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B1%D8%B9%D8%A7%D9%8A%D8%A9_%D8%A7%D9%84%D8%AA%D8%A3%D9%87%D9%8A%D9%84%D9%8A%D8%A9) — CC BY-SA 4.0
+- [الصحراء الطبية](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B5%D8%AD%D8%B1%D8%A7%D8%A1_%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%A9) — CC BY-SA 4.0
+- [الصفات المتغيرة](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B5%D9%81%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AA%D8%BA%D9%8A%D8%B1%D8%A9) — CC BY-SA 4.0
+- [الضغط الجنبوي](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B6%D8%BA%D8%B7_%D8%A7%D9%84%D8%AC%D9%86%D8%A8%D9%88%D9%8A) — CC BY-SA 4.0
+- [المعهد الدولي لعلوم الصحة](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF_%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A_%D9%84%D8%B9%D9%84%D9%88%D9%85_%D8%A7%D9%84%D8%B5%D8%AD%D8%A9) — CC BY-SA 4.0
+- [بايريدوستيغمين](https://ar.wikipedia.org/wiki/%D8%A8%D8%A7%D9%8A%D8%B1%D9%8A%D8%AF%D9%88%D8%B3%D8%AA%D9%8A%D8%BA%D9%85%D9%8A%D9%86) — CC BY-SA 4.0
+- [بروتين MDM2](https://ar.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AA%D9%8A%D9%86_MDM2) — CC BY-SA 4.0
+- [بطين وحيد](https://ar.wikipedia.org/wiki/%D8%A8%D8%B7%D9%8A%D9%86_%D9%88%D8%AD%D9%8A%D8%AF) — CC BY-SA 4.0
+- [بعثة هارفارد الطبية الافريقية](https://ar.wikipedia.org/wiki/%D8%A8%D8%B9%D8%AB%D8%A9_%D9%87%D8%A7%D8%B1%D9%81%D8%A7%D8%B1%D8%AF_%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%A9_%D8%A7%D9%84%D8%A7%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9) — CC BY-SA 4.0
+- [تتابع الوصفات الطبية](https://ar.wikipedia.org/wiki/%D8%AA%D8%AA%D8%A7%D8%A8%D8%B9_%D8%A7%D9%84%D9%88%D8%B5%D9%81%D8%A7%D8%AA_%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%A9) — CC BY-SA 4.0
+- [تحديد الجرعة](https://ar.wikipedia.org/wiki/%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF_%D8%A7%D9%84%D8%AC%D8%B1%D8%B9%D8%A9) — CC BY-SA 4.0
+- [تقنية هول](https://ar.wikipedia.org/wiki/%D8%AA%D9%82%D9%86%D9%8A%D8%A9_%D9%87%D9%88%D9%84) — CC BY-SA 4.0
+- [تكاثر الخلايا النقوية المرتبط بمتلازمة داون](https://ar.wikipedia.org/wiki/%D8%AA%D9%83%D8%A7%D8%AB%D8%B1_%D8%A7%D9%84%D8%AE%D9%84%D8%A7%D9%8A%D8%A7_%D8%A7%D9%84%D9%86%D9%82%D9%88%D9%8A%D8%A9_%D8%A7%D9%84%D9%85%D8%B1%D8%AA%D8%A8%D8%B7_%D8%A8%D9%85%D8%AA%D9%84%D8%A7%D8%B2%D9%85%D8%A9_%D8%AF%D8%A7%D9%88%D9%86) — CC BY-SA 4.0
+- [تكون الأهداب العصارية الخلوية](https://ar.wikipedia.org/wiki/%D8%AA%D9%83%D9%88%D9%86_%D8%A7%D9%84%D8%A3%D9%87%D8%AF%D8%A7%D8%A8_%D8%A7%D9%84%D8%B9%D8%B5%D8%A7%D8%B1%D9%8A%D8%A9_%D8%A7%D9%84%D8%AE%D9%84%D9%88%D9%8A%D8%A9) — CC BY-SA 4.0
+- [تمرينات لفافات العضلات](https://ar.wikipedia.org/wiki/%D8%AA%D9%85%D8%B1%D9%8A%D9%86%D8%A7%D8%AA_%D9%84%D9%81%D8%A7%D9%81%D8%A7%D8%AA_%D8%A7%D9%84%D8%B9%D8%B6%D9%84%D8%A7%D8%AA) — CC BY-SA 4.0
+- [تنظير متحد البؤر](https://ar.wikipedia.org/wiki/%D8%AA%D9%86%D8%B8%D9%8A%D8%B1_%D9%85%D8%AA%D8%AD%D8%AF_%D8%A7%D9%84%D8%A8%D8%A4%D8%B1) — CC BY-SA 4.0
+- [جراحة عن بعد](https://ar.wikipedia.org/wiki/%D8%AC%D8%B1%D8%A7%D8%AD%D8%A9_%D8%B9%D9%86_%D8%A8%D8%B9%D8%AF) — CC BY-SA 4.0
+- [جرعة منخفضة من العلاج الكيميائي](https://ar.wikipedia.org/wiki/%D8%AC%D8%B1%D8%B9%D8%A9_%D9%85%D9%86%D8%AE%D9%81%D8%B6%D8%A9_%D9%85%D9%86_%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D8%AC_%D8%A7%D9%84%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A6%D9%8A) — CC BY-SA 4.0
+- [إجهاد لاأحيائي](https://ar.wikipedia.org/wiki/%D8%A5%D8%AC%D9%87%D8%A7%D8%AF_%D9%84%D8%A7%D8%A3%D8%AD%D9%8A%D8%A7%D8%A6%D9%8A) — CC BY-SA 4.0
+- [إراحة صيفية](https://ar.wikipedia.org/wiki/%D8%A5%D8%B1%D8%A7%D8%AD%D8%A9_%D8%B5%D9%8A%D9%81%D9%8A%D8%A9) — CC BY-SA 4.0
+- [زراعة](https://ar.wikipedia.org/wiki/%D8%B2%D8%B1%D8%A7%D8%B9%D8%A9) — CC BY-SA 4.0
+- [إصلاح زراعي](https://ar.wikipedia.org/wiki/%D8%A5%D8%B5%D9%84%D8%A7%D8%AD_%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A) — CC BY-SA 4.0
+- [إنتاج متكامل](https://ar.wikipedia.org/wiki/%D8%A5%D9%86%D8%AA%D8%A7%D8%AC_%D9%85%D8%AA%D9%83%D8%A7%D9%85%D9%84) — CC BY-SA 4.0
+- [إنزيمات التربة](https://ar.wikipedia.org/wiki/%D8%A5%D9%86%D8%B2%D9%8A%D9%85%D8%A7%D8%AA_%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D8%A9) — CC BY-SA 4.0
+- [اتصال زراعي](https://ar.wikipedia.org/wiki/%D8%A7%D8%AA%D8%B5%D8%A7%D9%84_%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A) — CC BY-SA 4.0
+- [اتفاقية وقاية النباتات الدولية](https://ar.wikipedia.org/wiki/%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A%D8%A9_%D9%88%D9%82%D8%A7%D9%8A%D8%A9_%D8%A7%D9%84%D9%86%D8%A8%D8%A7%D8%AA%D8%A7%D8%AA_%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9) — CC BY-SA 4.0
+- [اجتثاث](https://ar.wikipedia.org/wiki/%D8%A7%D8%AC%D8%AA%D8%AB%D8%A7%D8%AB) — CC BY-SA 4.0
+- [اختبار الأنسجة النباتية](https://ar.wikipedia.org/wiki/%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1_%D8%A7%D9%84%D8%A3%D9%86%D8%B3%D8%AC%D8%A9_%D8%A7%D9%84%D9%86%D8%A8%D8%A7%D8%AA%D9%8A%D8%A9) — CC BY-SA 4.0
+- [استخدام داخل المجرى](https://ar.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85_%D8%AF%D8%A7%D8%AE%D9%84_%D8%A7%D9%84%D9%85%D8%AC%D8%B1%D9%89) — CC BY-SA 4.0
+- [استنبات](https://ar.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AA%D9%86%D8%A8%D8%A7%D8%AA) — CC BY-SA 4.0
+- [الأثر البيئي للزراعة](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A3%D8%AB%D8%B1_%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D9%8A_%D9%84%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D8%A9) — CC BY-SA 4.0
+- [التوسع الزراعي](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AA%D9%88%D8%B3%D8%B9_%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A) — CC BY-SA 4.0
+- [الخردل الهجين -11](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AE%D8%B1%D8%AF%D9%84_%D8%A7%D9%84%D9%87%D8%AC%D9%8A%D9%86_-11) — CC BY-SA 4.0
+- [الزراعة الضوئية](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D8%A9_%D8%A7%D9%84%D8%B6%D9%88%D8%A6%D9%8A%D8%A9) — CC BY-SA 4.0
+- [الزراعة المائية التاريخية](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D8%A9_%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D9%8A%D8%A9_%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9) — CC BY-SA 4.0
+- [الزراعة الهوائية](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D8%A9_%D8%A7%D9%84%D9%87%D9%88%D8%A7%D8%A6%D9%8A%D8%A9) — CC BY-SA 4.0
+- [الزراعة والحراجة والصيد في اليابان](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D8%A9_%D9%88%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%AC%D8%A9_%D9%88%D8%A7%D9%84%D8%B5%D9%8A%D8%AF_%D9%81%D9%8A_%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%A7%D9%86) — CC BY-SA 4.0
+- [العفن البني (المونيليا)](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B9%D9%81%D9%86_%D8%A7%D9%84%D8%A8%D9%86%D9%8A_%28%D8%A7%D9%84%D9%85%D9%88%D9%86%D9%8A%D9%84%D9%8A%D8%A7%29) — CC BY-SA 4.0
+- [العناية بالزراعة](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B9%D9%86%D8%A7%D9%8A%D8%A9_%D8%A8%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D8%A9) — CC BY-SA 4.0
+- [الفستق في إيران](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%81%D8%B3%D8%AA%D9%82_%D9%81%D9%8A_%D8%A5%D9%8A%D8%B1%D8%A7%D9%86) — CC BY-SA 4.0
+- [الماء واليابسة والأنظمة البيئية](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%A7%D8%A1_%D9%88%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%B3%D8%A9_%D9%88%D8%A7%D9%84%D8%A3%D9%86%D8%B8%D9%85%D8%A9_%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D9%8A%D8%A9) — CC BY-SA 4.0
+- [المركز العماني للعلوم البحرية والسمكية](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2_%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D9%86%D9%8A_%D9%84%D9%84%D8%B9%D9%84%D9%88%D9%85_%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D8%B3%D9%85%D9%83%D9%8A%D8%A9) — CC BY-SA 4.0
+- [المعاومة في الأشجار المثمرة](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%88%D9%85%D8%A9_%D9%81%D9%8A_%D8%A7%D9%84%D8%A3%D8%B4%D8%AC%D8%A7%D8%B1_%D8%A7%D9%84%D9%85%D8%AB%D9%85%D8%B1%D8%A9) — CC BY-SA 4.0
+- [امتداد الموسم](https://ar.wikipedia.org/wiki/%D8%A7%D9%85%D8%AA%D8%AF%D8%A7%D8%AF_%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%85) — CC BY-SA 4.0
+- [انتزاع الأراضي](https://ar.wikipedia.org/wiki/%D8%A7%D9%86%D8%AA%D8%B2%D8%A7%D8%B9_%D8%A7%D9%84%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A) — CC BY-SA 4.0
+
+## en.wikipedia.org — 126 articles
+
+- [AIC Judd Award](https://en.wikipedia.org/wiki/AIC_Judd_Award) — CC BY-SA 4.0
+- [Biography](https://en.wikipedia.org/wiki/Biography) — CC BY-SA 4.0
+- [Computer science](https://en.wikipedia.org/wiki/Computer_science) — CC BY-SA 4.0
+- [Agnostic (data)](https://en.wikipedia.org/wiki/Agnostic_%28data%29) — CC BY-SA 4.0
+- [Agriculture](https://en.wikipedia.org/wiki/Agriculture) — CC BY-SA 4.0
+- [Abiotic stress](https://en.wikipedia.org/wiki/Abiotic_stress) — CC BY-SA 4.0
+- [Agricultural chemistry](https://en.wikipedia.org/wiki/Agricultural_chemistry) — CC BY-SA 4.0
+- [Agricultural microbiology](https://en.wikipedia.org/wiki/Agricultural_microbiology) — CC BY-SA 4.0
+- [Apac District](https://en.wikipedia.org/wiki/Apac_District) — CC BY-SA 4.0
+- [Controlled atmosphere](https://en.wikipedia.org/wiki/Controlled_atmosphere) — CC BY-SA 4.0
+- [505(b)(2) regulatory pathway](https://en.wikipedia.org/wiki/505%28b%29%282%29_regulatory_pathway) — CC BY-SA 4.0
+- [Diabetes self-management](https://en.wikipedia.org/wiki/Diabetes_self-management) — CC BY-SA 4.0
+- [Annet Kirabo](https://en.wikipedia.org/wiki/Annet_Kirabo) — CC BY-SA 4.0
+- [Medical oddity](https://en.wikipedia.org/wiki/Medical_oddity) — CC BY-SA 4.0
+- [RNU2-2 syndrome](https://en.wikipedia.org/wiki/RNU2-2_syndrome) — CC BY-SA 4.0
+- [Eurotrac](https://en.wikipedia.org/wiki/Eurotrac) — CC BY-SA 4.0
+- [Hydroclimatology](https://en.wikipedia.org/wiki/Hydroclimatology) — CC BY-SA 4.0
+- [Ideonomy](https://en.wikipedia.org/wiki/Ideonomy) — CC BY-SA 4.0
+- [Outline of Syria](https://en.wikipedia.org/wiki/Outline_of_Syria) — CC BY-SA 4.0
+- [Outline of science](https://en.wikipedia.org/wiki/Outline_of_science) — CC BY-SA 4.0
+- [Peter Lwabi](https://en.wikipedia.org/wiki/Peter_Lwabi) — CC BY-SA 4.0
+- [Science](https://en.wikipedia.org/wiki/Science) — CC BY-SA 4.0
+- [Syria](https://en.wikipedia.org/wiki/Syria) — CC BY-SA 4.0
+- [Environmental history](https://en.wikipedia.org/wiki/Environmental_history) — CC BY-SA 4.0
+- [History](https://en.wikipedia.org/wiki/History) — CC BY-SA 4.0
+- [Physics](https://en.wikipedia.org/wiki/Physics) — CC BY-SA 4.0
+- [Scienticide](https://en.wikipedia.org/wiki/Scienticide) — CC BY-SA 4.0
+- [Scientific lacuna](https://en.wikipedia.org/wiki/Scientific_lacuna) — CC BY-SA 4.0
+- [Scientific transphobia](https://en.wikipedia.org/wiki/Scientific_transphobia) — CC BY-SA 4.0
+- [Scientism](https://en.wikipedia.org/wiki/Scientism) — CC BY-SA 4.0
+- [Historical figure](https://en.wikipedia.org/wiki/Historical_figure) — CC BY-SA 4.0
+- [Historical game studies](https://en.wikipedia.org/wiki/Historical_game_studies) — CC BY-SA 4.0
+- [Historical significance](https://en.wikipedia.org/wiki/Historical_significance) — CC BY-SA 4.0
+- [Historicism](https://en.wikipedia.org/wiki/Historicism) — CC BY-SA 4.0
+- [History and culture of trictrac](https://en.wikipedia.org/wiki/History_and_culture_of_trictrac) — CC BY-SA 4.0
+- [History of marriage](https://en.wikipedia.org/wiki/History_of_marriage) — CC BY-SA 4.0
+- [Local history](https://en.wikipedia.org/wiki/Local_history) — CC BY-SA 4.0
+- [National memory](https://en.wikipedia.org/wiki/National_memory) — CC BY-SA 4.0
+- [Boolean](https://en.wikipedia.org/wiki/Boolean) — CC BY-SA 4.0
+- [Catalytic computing](https://en.wikipedia.org/wiki/Catalytic_computing) — CC BY-SA 4.0
+- [Computational gastronomy](https://en.wikipedia.org/wiki/Computational_gastronomy) — CC BY-SA 4.0
+- [Computer Science and Engineering Building (UC San Diego)](https://en.wikipedia.org/wiki/Computer_Science_and_Engineering_Building_%28UC_San_Diego%29) — CC BY-SA 4.0
+- [Computer science in sport](https://en.wikipedia.org/wiki/Computer_science_in_sport) — CC BY-SA 4.0
+- [Dekker's algorithm](https://en.wikipedia.org/wiki/Dekker%27s_algorithm) — CC BY-SA 4.0
+- [Filter and refine](https://en.wikipedia.org/wiki/Filter_and_refine) — CC BY-SA 4.0
+- [Outline of computer science](https://en.wikipedia.org/wiki/Outline_of_computer_science) — CC BY-SA 4.0
+- [Fly algorithm](https://en.wikipedia.org/wiki/Fly_algorithm) — CC BY-SA 4.0
+- [LinkML](https://en.wikipedia.org/wiki/LinkML) — CC BY-SA 4.0
+- [Peripheral](https://en.wikipedia.org/wiki/Peripheral) — CC BY-SA 4.0
+- [Prefetching](https://en.wikipedia.org/wiki/Prefetching) — CC BY-SA 4.0
+- [Technology transfer in computer science](https://en.wikipedia.org/wiki/Technology_transfer_in_computer_science) — CC BY-SA 4.0
+- [Transition (computer science)](https://en.wikipedia.org/wiki/Transition_%28computer_science%29) — CC BY-SA 4.0
+- [Unicode bidirectional algorithm](https://en.wikipedia.org/wiki/Unicode_bidirectional_algorithm) — CC BY-SA 4.0
+- [Agrarian distress](https://en.wikipedia.org/wiki/Agrarian_distress) — CC BY-SA 4.0
+- [Agrarian system](https://en.wikipedia.org/wiki/Agrarian_system) — CC BY-SA 4.0
+- [Agribusiness](https://en.wikipedia.org/wiki/Agribusiness) — CC BY-SA 4.0
+- [Agricultural astrology](https://en.wikipedia.org/wiki/Agricultural_astrology) — CC BY-SA 4.0
+- [Agriculture in ants](https://en.wikipedia.org/wiki/Agriculture_in_ants) — CC BY-SA 4.0
+- [Crop](https://en.wikipedia.org/wiki/Crop) — CC BY-SA 4.0
+- [Agricultural communication](https://en.wikipedia.org/wiki/Agricultural_communication) — CC BY-SA 4.0
+- [Agricultural cycle](https://en.wikipedia.org/wiki/Agricultural_cycle) — CC BY-SA 4.0
+- [Agricultural diversification](https://en.wikipedia.org/wiki/Agricultural_diversification) — CC BY-SA 4.0
+- [Agricultural expansion](https://en.wikipedia.org/wiki/Agricultural_expansion) — CC BY-SA 4.0
+- [Agricultural experiment station](https://en.wikipedia.org/wiki/Agricultural_experiment_station) — CC BY-SA 4.0
+- [Agricultural extension](https://en.wikipedia.org/wiki/Agricultural_extension) — CC BY-SA 4.0
+- [Agricultural finance](https://en.wikipedia.org/wiki/Agricultural_finance) — CC BY-SA 4.0
+- [Agricultural journalism](https://en.wikipedia.org/wiki/Agricultural_journalism) — CC BY-SA 4.0
+- [Agricultural road](https://en.wikipedia.org/wiki/Agricultural_road) — CC BY-SA 4.0
+- [Agricultural weed syndrome](https://en.wikipedia.org/wiki/Agricultural_weed_syndrome) — CC BY-SA 4.0
+- [Agriculturist](https://en.wikipedia.org/wiki/Agriculturist) — CC BY-SA 4.0
+- [Agrifood systems](https://en.wikipedia.org/wiki/Agrifood_systems) — CC BY-SA 4.0
+- [Agrivoltaics](https://en.wikipedia.org/wiki/Agrivoltaics) — CC BY-SA 4.0
+- [Agroecology](https://en.wikipedia.org/wiki/Agroecology) — CC BY-SA 4.0
+- [Agroecosystem analysis](https://en.wikipedia.org/wiki/Agroecosystem_analysis) — CC BY-SA 4.0
+- [Algaculture](https://en.wikipedia.org/wiki/Algaculture) — CC BY-SA 4.0
+- [Glossary of agriculture](https://en.wikipedia.org/wiki/Glossary_of_agriculture) — CC BY-SA 4.0
+- [Beneficial weed](https://en.wikipedia.org/wiki/Beneficial_weed) — CC BY-SA 4.0
+- [Biomass partitioning](https://en.wikipedia.org/wiki/Biomass_partitioning) — CC BY-SA 4.0
+- [Bioresource engineering](https://en.wikipedia.org/wiki/Bioresource_engineering) — CC BY-SA 4.0
+- [Biosaline agriculture](https://en.wikipedia.org/wiki/Biosaline_agriculture) — CC BY-SA 4.0
+- [Biostimulant](https://en.wikipedia.org/wiki/Biostimulant) — CC BY-SA 4.0
+- [Care farming](https://en.wikipedia.org/wiki/Care_farming) — CC BY-SA 4.0
+- [Cense](https://en.wikipedia.org/wiki/Cense) — CC BY-SA 4.0
+- [Convertible husbandry](https://en.wikipedia.org/wiki/Convertible_husbandry) — CC BY-SA 4.0
+- [Creep feeding](https://en.wikipedia.org/wiki/Creep_feeding) — CC BY-SA 4.0
+- [Creole garden](https://en.wikipedia.org/wiki/Creole_garden) — CC BY-SA 4.0
+- [Cultural control](https://en.wikipedia.org/wiki/Cultural_control) — CC BY-SA 4.0
+- [Deep plowing](https://en.wikipedia.org/wiki/Deep_plowing) — CC BY-SA 4.0
+- [Domestication syndrome](https://en.wikipedia.org/wiki/Domestication_syndrome) — CC BY-SA 4.0
+- [Medicine](https://en.wikipedia.org/wiki/Medicine) — CC BY-SA 4.0
+- [Accelerated Resolution Therapy](https://en.wikipedia.org/wiki/Accelerated_Resolution_Therapy) — CC BY-SA 4.0
+- [Anti-asthmatic agent](https://en.wikipedia.org/wiki/Anti-asthmatic_agent) — CC BY-SA 4.0
+- [Breastmilk medicine](https://en.wikipedia.org/wiki/Breastmilk_medicine) — CC BY-SA 4.0
+- [Cancer exodus hypothesis](https://en.wikipedia.org/wiki/Cancer_exodus_hypothesis) — CC BY-SA 4.0
+- [Clinical handover](https://en.wikipedia.org/wiki/Clinical_handover) — CC BY-SA 4.0
+- [Confocal endoscopy](https://en.wikipedia.org/wiki/Confocal_endoscopy) — CC BY-SA 4.0
+- [Terminology of alternative medicine](https://en.wikipedia.org/wiki/Terminology_of_alternative_medicine) — CC BY-SA 4.0
+- [Barotrauma](https://en.wikipedia.org/wiki/Barotrauma) — CC BY-SA 4.0
+- [Dorsal pancreatic agenesis](https://en.wikipedia.org/wiki/Dorsal_pancreatic_agenesis) — CC BY-SA 4.0
+- [Drone-Enhanced Emergency Medical Services](https://en.wikipedia.org/wiki/Drone-Enhanced_Emergency_Medical_Services) — CC BY-SA 4.0
+- [Electronic health record (Germany)](https://en.wikipedia.org/wiki/Electronic_health_record_%28Germany%29) — CC BY-SA 4.0
+- [Follicular drug delivery](https://en.wikipedia.org/wiki/Follicular_drug_delivery) — CC BY-SA 4.0
+- [Good Shepherd Rehabilitation](https://en.wikipedia.org/wiki/Good_Shepherd_Rehabilitation) — CC BY-SA 4.0
+- [Hidaklon](https://en.wikipedia.org/wiki/Hidaklon) — CC BY-SA 4.0
+- [Humorism](https://en.wikipedia.org/wiki/Humorism) — CC BY-SA 4.0
+- [Intersex healthcare](https://en.wikipedia.org/wiki/Intersex_healthcare) — CC BY-SA 4.0
+- [Isotropic bands](https://en.wikipedia.org/wiki/Isotropic_bands) — CC BY-SA 4.0
+- [KDM5C-related neurodevelopmental disorder](https://en.wikipedia.org/wiki/KDM5C-related_neurodevelopmental_disorder) — CC BY-SA 4.0
+- [LAMA2 related congenital muscular dystrophy](https://en.wikipedia.org/wiki/LAMA2_related_congenital_muscular_dystrophy) — CC BY-SA 4.0
+- [LINKED syndrome](https://en.wikipedia.org/wiki/LINKED_syndrome) — CC BY-SA 4.0
+- [Landarzt](https://en.wikipedia.org/wiki/Landarzt) — CC BY-SA 4.0
+- [Maibaron](https://en.wikipedia.org/wiki/Maibaron) — CC BY-SA 4.0
+- [Medical education](https://en.wikipedia.org/wiki/Medical_education) — CC BY-SA 4.0
+- [Musicians' Medicine](https://en.wikipedia.org/wiki/Musicians%27_Medicine) — CC BY-SA 4.0
+- [NAKO Health Study](https://en.wikipedia.org/wiki/NAKO_Health_Study) — CC BY-SA 4.0
+- [Occlusive vasculopathy](https://en.wikipedia.org/wiki/Occlusive_vasculopathy) — CC BY-SA 4.0
+- [POCUS](https://en.wikipedia.org/wiki/POCUS) — CC BY-SA 4.0
+- [Pediatric endocrinology](https://en.wikipedia.org/wiki/Pediatric_endocrinology) — CC BY-SA 4.0
+- [Physical therapy for stroke rehabilitation](https://en.wikipedia.org/wiki/Physical_therapy_for_stroke_rehabilitation) — CC BY-SA 4.0
+- [Poison exon](https://en.wikipedia.org/wiki/Poison_exon) — CC BY-SA 4.0
+- [Pyridostigmine](https://en.wikipedia.org/wiki/Pyridostigmine) — CC BY-SA 4.0
+- [RNU4-2 syndrome](https://en.wikipedia.org/wiki/RNU4-2_syndrome) — CC BY-SA 4.0
+- [Spondyloepimetaphyseal dysplasia, Guo–Campeau type](https://en.wikipedia.org/wiki/Spondyloepimetaphyseal_dysplasia%2C_Guo%E2%80%93Campeau_type) — CC BY-SA 4.0
+- [Synthetic cannabinoid use disorder](https://en.wikipedia.org/wiki/Synthetic_cannabinoid_use_disorder) — CC BY-SA 4.0
+- [Urinary anti-infective agent](https://en.wikipedia.org/wiki/Urinary_anti-infective_agent) — CC BY-SA 4.0
+- [Preoperative care](https://en.wikipedia.org/wiki/Preoperative_care) — CC BY-SA 4.0

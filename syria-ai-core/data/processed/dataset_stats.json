@@ -1,0 +1,91 @@
+{
+  "dataset_id": "SDS-001",
+  "name": "SYRIA AI Debug Corpus",
+  "version": "1.0.0",
+  "built_at": "2026-11-21T07:16:55Z",
+  "network_status": "skipped",
+  "documents": {
+    "imported": 652,
+    "validated": 563,
+    "after_dedup": 563,
+    "rejected": 89
+  },
+  "dedup": {
+    "input_docs": 563,
+    "kept_docs": 563,
+    "removed_exact": 0,
+    "removed_near": 0,
+    "dedup_ratio": 0.0
+  },
+  "privacy_redactions": 2,
+  "languages": {
+    "ar": 383,
+    "en": 126,
+    "mixed": 54
+  },
+  "sources": {
+    "ar.wikipedia.org": 266,
+    "en.wikipedia.org": 126,
+    "SYRIA-AI-Project/synthetic-seed": 171
+  },
+  "licenses": {
+    "CC BY-SA 4.0": 392,
+    "Project-Authored": 171
+  },
+  "tokenizer": {
+    "tokenizer_id": "syria-tokenizer",
+    "version": "1.0.0",
+    "vocab_size": 4096,
+    "n_special": 8,
+    "n_bytes": 256,
+    "n_merges": 3832,
+    "trained_at": "2026-11-21T07:16:54.794569+00:00",
+    "corpus_bytes": 782383,
+    "corpus_words": 163411,
+    "unique_words": 25224,
+    "corpus_hash": "9c4c1ea6bbfa6219",
+    "learned_merges": 3832
+  },
+  "shards": {
+    "train": {
+      "path": "shards/train.bin",
+      "sequences": 529,
+      "tokens": 230168,
+      "dtype": "uint16",
+      "bytes": 460336
+    },
+    "valid": {
+      "path": "shards/valid.bin",
+      "sequences": 22,
+      "tokens": 10043,
+      "dtype": "uint16",
+      "bytes": 20086
+    },
+    "test": {
+      "path": "shards/test.bin",
+      "sequences": 12,
+      "tokens": 10484,
+      "dtype": "uint16",
+      "bytes": 20968
+    }
+  },
+  "splits": {
+    "train": {
+      "docs": 529
+    },
+    "valid": {
+      "docs": 22
+    },
+    "test": {
+      "docs": 12
+    }
+  },
+  "attribution": "data/seed_corpus/ATTRIBUTION.md",
+  "policy": {
+    "external_ai_generated_data": "FORBIDDEN — none used",
+    "licenses_enforced": [
+      "CC BY-SA 4.0",
+      "Project-Authored"
+    ]
+  }
+}

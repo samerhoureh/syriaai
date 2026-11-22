@@ -1,0 +1,19 @@
+# SYRIA AI CORE — Python dependencies for the original neural engine.
+# Install with:  pip install -r requirements.txt
+#
+# The engine is built from scratch on PyTorch; no pretrained models,
+# no external LLM APIs, no proprietary tokenizer packages are used.
+
+# neural network core (CPU wheel is sufficient for the Debug model:
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu)
+torch>=2.2
+
+# inference service (FastAPI on port 3010)
+fastapi>=0.110
+uvicorn>=0.29
+
+# data pipeline & numeric stack
+numpy>=1.26
+
+# engineering tests
+pytest>=8.0

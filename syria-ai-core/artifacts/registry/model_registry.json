@@ -1,0 +1,111 @@
+{
+  "updated_at": "2026-11-21T08:02:42Z",
+  "models": [
+    {
+      "model_id": "syria-ai-debug",
+      "name": "SYRIA AI Debug",
+      "checkpoint_path": "artifacts/models/syria-ai-debug/checkpoint.pt",
+      "checkpoint_bytes": 16256702,
+      "has_checkpoint": true,
+      "has_tokenizer": true,
+      "has_evaluation": true,
+      "has_training_metadata": true,
+      "params": null,
+      "vocab_size": 4096,
+      "block_size": 256,
+      "architecture": "decoder-only-baseline",
+      "status": "TRAINED",
+      "available_for_inference": true
+    },
+    {
+      "model_id": "syria-ai-nano",
+      "name": "SYRIA AI Nano",
+      "target_params": "50M",
+      "status": "PLANNED",
+      "has_checkpoint": false,
+      "available_for_inference": false,
+      "message": "Not trained yet — requires hardware beyond the current CPU-only environment."
+    },
+    {
+      "model_id": "syria-ai-mini",
+      "name": "SYRIA AI Mini",
+      "target_params": "150M",
+      "status": "PLANNED",
+      "has_checkpoint": false,
+      "available_for_inference": false,
+      "message": "Not trained yet — requires hardware beyond the current CPU-only environment."
+    },
+    {
+      "model_id": "syria-ai-base",
+      "name": "SYRIA AI Base",
+      "target_params": "1B",
+      "status": "PLANNED",
+      "has_checkpoint": false,
+      "available_for_inference": false,
+      "message": "Not trained yet — requires hardware beyond the current CPU-only environment."
+    },
+    {
+      "model_id": "syria-ai-pro",
+      "name": "SYRIA AI Pro",
+      "target_params": "3B",
+      "status": "PLANNED",
+      "has_checkpoint": false,
+      "available_for_inference": false,
+      "message": "Not trained yet — requires hardware beyond the current CPU-only environment."
+    },
+    {
+      "model_id": "syria-ai-code",
+      "name": "SYRIA AI Code",
+      "status": "PLANNED",
+      "family": "specialized",
+      "has_checkpoint": false,
+      "available_for_inference": false,
+      "message": "Derived variants start only after the base model is trained."
+    },
+    {
+      "model_id": "syria-ai-education",
+      "name": "SYRIA AI Education",
+      "status": "PLANNED",
+      "family": "specialized",
+      "has_checkpoint": false,
+      "available_for_inference": false,
+      "message": "Derived variants start only after the base model is trained."
+    },
+    {
+      "model_id": "syria-ai-reconstruction",
+      "name": "SYRIA AI Reconstruction",
+      "status": "PLANNED",
+      "family": "specialized",
+      "has_checkpoint": false,
+      "available_for_inference": false,
+      "message": "Derived variants start only after the base model is trained."
+    },
+    {
+      "model_id": "syria-ai-agriculture",
+      "name": "SYRIA AI Agriculture",
+      "status": "PLANNED",
+      "family": "specialized",
+      "has_checkpoint": false,
+      "available_for_inference": false,
+      "message": "Derived variants start only after the base model is trained."
+    },
+    {
+      "model_id": "syria-ai-administration",
+      "name": "SYRIA AI Administration",
+      "status": "PLANNED",
+      "family": "specialized",
+      "has_checkpoint": false,
+      "available_for_inference": false,
+      "message": "Derived variants start only after the base model is trained."
+    },
+    {
+      "model_id": "syria-ai-research",
+      "name": "SYRIA AI Research",
+      "status": "PLANNED",
+      "family": "specialized",
+      "has_checkpoint": false,
+      "available_for_inference": false,
+      "message": "Derived variants start only after the base model is trained."
+    }
+  ]
+}

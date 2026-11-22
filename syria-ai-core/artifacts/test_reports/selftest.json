@@ -1,0 +1,120 @@
+{
+  "checks": [
+    {
+      "name": "forward_shapes",
+      "pass": true,
+      "logits_shape": [
+        2,
+        64,
+        512
+      ],
+      "loss": 6.244701385498047
+    },
+    {
+      "name": "backward_gradient_flow",
+      "pass": true,
+      "trainable_params": 43,
+      "params_without_grad": []
+    },
+    {
+      "name": "weight_update",
+      "pass": true,
+      "unchanged_params": [],
+      "max_abs_delta": 0.010099947452545166
+    },
+    {
+      "name": "param_count_memory",
+      "pass": true,
+      "params": 890496,
+      "process_rss_mb": 359.6
+    },
+    {
+      "name": "causal_mask_integrity",
+      "pass": true
+    },
+    {
+      "name": "autoregressive_generation",
+      "pass": true,
+      "output_shape": [
+        1,
+        24
+      ]
+    }
+  ],
+  "family_param_counts": {
+    "nano": {
+      "config": {
+        "model_id": "syria-ai-nano",
+        "arch_name": "decoder-only-baseline",
+        "vocab_size": 16384,
+        "block_size": 1024,
+        "n_layer": 8,
+        "n_head": 8,
+        "n_embd": 512,
+        "ffn_mult": 4,
+        "dropout": 0.1,
+        "bias": true,
+        "norm": "rmsnorm",
+        "weight_tying": true,
+        "activation": "gelu-tanh"
+      },
+      "estimated_params": 34137088
+    },
+    "mini": {
+      "config": {
+        "model_id": "syria-ai-mini",
+        "arch_name": "decoder-only-baseline",
+        "vocab_size": 32768,
+        "block_size": 2048,
+        "n_layer": 12,
+        "n_head": 12,
+        "n_embd": 768,
+        "ffn_mult": 4,
+        "dropout": 0.1,
+        "bias": true,
+        "norm": "rmsnorm",
+        "weight_tying": true,
+        "activation": "gelu-tanh"
+      },
+      "estimated_params": 111803904
+    },
+    "base": {
+      "config": {
+        "model_id": "syria-ai-base",
+        "arch_name": "decoder-only-baseline",
+        "vocab_size": 49152,
+        "block_size": 4096,
+        "n_layer": 20,
+        "n_head": 20,
+        "n_embd": 2048,
+        "ffn_mult": 4,
+        "dropout": 0.1,
+        "bias": true,
+        "norm": "rmsnorm",
+        "weight_tying": true,
+        "activation": "gelu-tanh"
+      },
+      "estimated_params": 1116262400
+    },
+    "pro": {
+      "config": {
+        "model_id": "syria-ai-pro",
+        "arch_name": "decoder-only-baseline",
+        "vocab_size": 65536,
+        "block_size": 4096,
+        "n_layer": 26,
+        "n_head": 26,
+        "n_embd": 2560,
+        "ffn_mult": 4,
+        "dropout": 0.1,
+        "bias": true,
+        "norm": "rmsnorm",
+        "weight_tying": true,
+        "activation": "gelu-tanh"
+      },
+      "estimated_params": 2223918080
+    }
+  },
+  "overall_pass": true,
+  "duration_sec": 2.19
+}

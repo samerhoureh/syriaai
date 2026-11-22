@@ -1,0 +1,15 @@
+{
+  "model_id": "syria-ai-debug",
+  "arch_name": "decoder-only-baseline",
+  "vocab_size": 4096,
+  "block_size": 256,
+  "n_layer": 4,
+  "n_head": 4,
+  "n_embd": 128,
+  "ffn_mult": 4,
+  "dropout": 0.1,
+  "bias": true,
+  "norm": "rmsnorm",
+  "weight_tying": true,
+  "activation": "gelu-tanh"
+}

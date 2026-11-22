@@ -1,0 +1,178 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+// ---------------------------------------------------------------------------
+// SYRIA AI — Research Platform Data Model
+// ---------------------------------------------------------------------------
+
+model AiModel {
+  id            String   @id @default(cuid())
+  modelId       String   @unique // syria-ai-nano
+  name          String // SYRIA AI Nano
+  params        String // 50M
+  paramsNum     Float // 50 (millions)
+  status        String // experimental | training | planning | planned | debug
+  progress      Float // 0-100
+  purpose       String
+  purposeAr     String
+  contextLen    Int?
+  vocabSize     Int?
+  available     Boolean  @default(false) // weights / API availability
+  family        String   @default("foundation") // foundation | specialized
+  description   String
+  descriptionAr String
+  sort          Int      @default(0)
+  source        String   @default("DEMO") // REAL | DEMO | UNAVAILABLE — data classification
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+}
+
+model Experiment {
+  id            String      @id @default(cuid())
+  expId         String      @unique // EXP-024
+  title         String
+  titleAr       String
+  modelName     String // Mini (150M)
+  modelId       String // syria-ai-mini
+  status        String // running | paused | completed | failed | queued | stopped
+  progress      Float // 0-100
+  steps         Int
+  totalSteps    Int
+  tokensB       Float // tokens processed (billions)
+  tokensTargetB Float
+  speedTokSec   Int
+  elapsedWeeks  Float
+  remainingDays Int
+  trainLoss     Float?
+  validLoss     Float?
+  // configuration
+  architecture  String // decoder-only-baseline | sdsa-experimental
+  optimizer     String // adamw
+  learningRate  Float
+  batchSize     Int
+  seqLen        Int
+  warmupSteps   Int
+  weightDecay   Float
+  precision     String // bf16 | fp32
+  seed          Int
+  notes         String?
+  startedAt     DateTime
+  finishedAt    DateTime?
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+  lossPoints    LossPoint[]
+  source        String   @default("DEMO") // REAL | DEMO | UNAVAILABLE — data classification
+}
+
+model LossPoint {
+  id           String     @id @default(cuid())
+  experimentId String
+  step         Int
+  trainLoss    Float
+  validLoss    Float?
+  experiment   Experiment @relation(fields: [experimentId], references: [id], onDelete: Cascade)
+
+  @@index([experimentId, step])
+}
+
+model Dataset {
+  id         String   @id @default(cuid())
+  dsId       String   @unique // DS-001
+  name       String
+  nameAr     String
+  category   String // web | books | encyclopedia | dialect | code | news | technical | dialogue
+  language   String // ar | en | mixed
+  docsM      Float // documents (millions)
+  tokensB    Float // tokens (billions)
+  license    String // CC-BY-4.0 | ODC-BY | Public-Domain | Internal-Research
+  licenseUrl String?
+  source     String
+  status     String // ready | processing | planned | review
+  version    String
+  quality    Float? // 0-100
+  dedupRatio Float? // 0-1
+  splitsTrain Float? // 0-1
+  splitsValid Float? // 0-1
+  splitsTest  Float? // 0-1
+  notes      String?
+  dataSource String   @default("DEMO") // REAL | DEMO | UNAVAILABLE — data classification (source holds provenance text)
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+}
+
+model Benchmark {
+  id        String  @id @default(cuid())
+  benchId   String  @unique // SB-01
+  name      String
+  nameAr    String
+  category  String // language | dialect | reasoning | code | math | safety | operations
+  status    String // planned | ready | measured
+  nanoScore Float?
+  miniScore Float?
+  unit      String? // % | ppl | tok/s
+  higherBetter Boolean @default(true)
+  notes     String?
+  source    String  @default("DEMO") // REAL | DEMO | UNAVAILABLE — data classification
+}
+
+model ApiKey {
+  id         String    @id @default(cuid())
+  keyId      String    @unique // SK-XXXX-...
+  name       String
+  maskedKey  String // SK-syria-****-7f3a
+  fullKey    String // demo platform only
+  tier       String // internal | research | community
+  status     String // active | revoked
+  rateLimit  Int // requests / minute
+  requests   Int       @default(0)
+  tokensUsed Float     @default(0)
+  createdAt  DateTime  @default(now())
+  lastUsed   DateTime?
+  source     String    @default("DEMO") // REAL | DEMO | UNAVAILABLE — data classification
+}
+
+model ChatSession {
+  id        String        @id @default(cuid())
+  title     String
+  model     String        @default("syria-ai-nano")
+  createdAt DateTime      @default(now())
+  updatedAt DateTime      @updatedAt
+  messages  ChatMessage[]
+}
+
+model ChatMessage {
+  id        String      @id @default(cuid())
+  sessionId String
+  role      String // user | assistant
+  content   String
+  createdAt DateTime    @default(now())
+  session   ChatSession @relation(fields: [sessionId], references: [id], onDelete: Cascade)
+
+  @@index([sessionId, createdAt])
+}
+
+model ActivityLog {
+  id        String   @id @default(cuid())
+  kind      String // training | data | api | system | security | inference
+  messageAr String
+  messageEn String
+  level     String   @default("info") // info | success | warn | error
+  createdAt DateTime @default(now())
+  source    String   @default("DEMO") // REAL | DEMO | UNAVAILABLE — data classification
+}
+
+model SystemMetric {
+  id       String @id @default(cuid())
+  metricId String @unique // gpu0 | gpu1 | gpu2 | ram | cpu | storage
+  label    String
+  value    Float // percent used
+  detail   String // 22.3 / 24 GB
+  kind     String // gpu | memory | compute | storage
+  sort     Int    @default(0)
+}

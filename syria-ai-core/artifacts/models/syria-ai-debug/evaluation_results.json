@@ -1,0 +1,31 @@
+{
+  "experiment_id": "EXP-001",
+  "evaluated_at": "2026-11-22T14:55:58Z",
+  "valid_loss": 4.3299,
+  "best_valid_loss": 4.3171,
+  "perplexity_held_out": 75.35,
+  "generation_samples": [
+    {
+      "prompt": "دمشق",
+      "output": "دمشق يوم بس في في السوق في بس في في في وقت.\nفريق الآخر في وقت.\nالسوق طويل، طرطوس في حمص، بس شو صعب الأثمنة",
+      "note": "generated from trained weights (quality expected to be weak)"
+    },
+    {
+      "prompt": "المدرسة",
+      "output": "المدرسة في اليوم المدرسة مرتفعة شو الأثمنة بتعلمنا في المدرسة الآخر كنت في بده في كنت رأيك في الأخبار، بس صعب الأخبار، اليوم كنت في",
+      "note": "generated from trained weights (quality expected to be weak)"
+    },
+    {
+      "prompt": "The project",
+      "output": "The project of be confertiating is are be and The the and report وإنجليزية be for a يعمل report data إدلب.\nنموذج report data ",
+      "note": "generated from trained weights (quality expected to be weak)"
+    },
+    {
+      "prompt": "def add",
+      "output": "def adds TSine M); the thetri Jares Ti Ca of \"A) (SNio \"T5 (UM5\"-Ar",
+      "note": "generated from trained weights (quality expected to be weak)"
+    }
+  ],
+  "quality_note": "Debug-scale model: outputs are mostly incoherent by design. This run proves the neural pipeline, not language quality.",
+  "honest_status": "TRAINED (debug scale)"
+}
